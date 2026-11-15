@@ -1,0 +1,16 @@
+---
+layout: "post"
+title: ""
+date: "2009-12-13 21:57:53 +0000"
+permalink: "/231/"
+wordpress_id: 231
+wordpress_guid: "https://www.diegopetrucci.it/blog/2009/12/13/231/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Photo — 2009-12-13"
+---
+
+[![](/blog/wp-content/uploads/2009/12/tumblr_kum2chNImi1qaou1co1_1280-150x150.jpg)](/blog/wp-content/uploads/2009/12/tumblr_kum2chNImi1qaou1co1_1280.jpg)
+
+  

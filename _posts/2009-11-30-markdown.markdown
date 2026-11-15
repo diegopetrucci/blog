@@ -1,0 +1,14 @@
+---
+layout: "post"
+title: "Markdown"
+date: "2009-11-30 14:12:47 +0000"
+permalink: "/markdown/"
+wordpress_id: 297
+wordpress_guid: "https://www.diegopetrucci.it/blog/2009/11/30/markdown/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Markdown"
+---
+
+Sto testando [Markdown](http://daringfireball.net/projects/markdown/syntax) invece che il classico editor per formattare gli articoli. Combinato a [Markdonwr](http://markdownr.com/) *è una manna dal cielo.*

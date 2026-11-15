@@ -1,0 +1,14 @@
+---
+layout: "post"
+title: "Editors"
+date: "2009-12-02 17:42:50 +0000"
+permalink: "/editors/"
+wordpress_id: 286
+wordpress_guid: "https://www.diegopetrucci.it/blog/2009/12/02/editors/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Editors"
+---
+
+Domani sono a Roma, al Tendastrisce per il concerto degli Editors. And I’ll be **pushing my head towards the air!**

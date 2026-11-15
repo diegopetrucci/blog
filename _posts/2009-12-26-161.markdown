@@ -1,0 +1,16 @@
+---
+layout: "post"
+title: ""
+date: "2009-12-26 15:22:30 +0000"
+permalink: "/161/"
+wordpress_id: 161
+wordpress_guid: "https://www.diegopetrucci.it/blog/2009/12/26/161/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Photo — 2009-12-26"
+---
+
+[![](/blog/wp-content/uploads/2009/12/tumblr_kv9lwcI9kc1qa1saxo1_500-150x150.jpg)](/blog/wp-content/uploads/2009/12/tumblr_kv9lwcI9kc1qa1saxo1_500.jpg)
+
+  

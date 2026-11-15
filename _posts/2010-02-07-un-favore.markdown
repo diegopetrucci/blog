@@ -1,0 +1,17 @@
+---
+layout: "post"
+title: "Un favore"
+date: "2010-02-07 20:00:00 +0000"
+permalink: "/un-favore/"
+wordpress_id: 88
+wordpress_guid: "https://www.diegopetrucci.it/blog/2010/02/07/un-favore/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Un favore"
+---
+
+Devo chiedervi un favore: ho tradotto la mia [about page](http://www.diegopetrucci.it/about/) in inglese, avete voglia di darle un’occhiata per vedere se ho scritto castronerie?  
+Se ne trovate segnalatemele in [questa](/blog/submit) pagina, oppure mandatemi una mail (me AT diegopetrucci.it)
+
+(ah, mancano ancora tutti i link, non fateci caso)

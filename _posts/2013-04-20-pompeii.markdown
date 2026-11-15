@@ -1,0 +1,20 @@
+---
+layout: "post"
+title: "Pompeii"
+date: "2013-04-20 19:59:34 +0000"
+permalink: "/pompeii/"
+wordpress_id: 25
+wordpress_guid: "https://www.diegopetrucci.it/blog/2013/04/20/pompeii/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Pompeii"
+---
+
+Sei contento di te stesso? Lo sei davvero? Lo sai che l’unica persona su cui puoi contare sei te stesso? Non c’è nessun’altro. Non la tua ragazza di cinque anni. Non i tuoi genitori. Non i tuoi amici.
+
+Il mio non è cinismo da tre soldi da prima lettura di Nietzsche. È una considerazione analitica. Fredda, quello sì, ma razionale. Chiunque può morire, anche la persona di cui non riusciresti fare a meno. O sbagliare, anche ingenuamente, e compromettere qualcosa per sempre. O finire sullo sfondo, ormai trasparente.
+
+L’unica cosa che hai, un cazzo di bastone interiore su cui appoggiarti, che metafora di merda, sei te. Sei a posto con te stesso? Sei onesto? Fai quello che devi fare? Fai quello che hai bisogno di fare? Fai quello che si dovrebbe fare?
+
+Io no. Non sono onesto. E la pagherò cara.

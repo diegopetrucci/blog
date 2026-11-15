@@ -1,0 +1,14 @@
+---
+layout: "post"
+title: "Ubiquity"
+date: "2009-12-09 21:39:00 +0000"
+permalink: "/ubiquity/"
+wordpress_id: 257
+wordpress_guid: "https://www.diegopetrucci.it/blog/2009/12/09/ubiquity/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Ubiquity"
+---
+
+Ho appena provato [Ubiquity](https://mozillalabs.com/ubiquity/). Se la fanno nel modo giusto (e già siamo a buon punto), sarà **l’invenzione più grande dopo il browser stesso.**

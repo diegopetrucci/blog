@@ -1,0 +1,26 @@
+---
+layout: "post"
+title: "Il Tablet"
+date: "2010-01-22 17:09:00 +0000"
+permalink: "/il-tablet/"
+wordpress_id: 105
+wordpress_guid: "https://www.diegopetrucci.it/blog/2010/01/22/il-tablet/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "Il Tablet"
+---
+
+Visto che ci siamo quasi, posso anche fare un riassuntino delle previsioni più plausibili che ho letto in giro riguardo il Tablet.
+
+E’ ovvio che si sapranno per certo le caratteristiche solo il 27, ma è quasi sicuro che:
+
+1.  non avrà come sistema operativo né snow leonard né l’iphone OS. Apple molto probabilmente creerà un nuovo strato sopra Snow Leopard, seguendo l’esempio dell’iphone. Ovvero scordatevi i file, le cartelle, e tutto il concetto di computer come l’avete conosciuto fino ad oggi. Invece, questo strato caramelloso sarà spalmato sopra questi dettagli e semplificherà enormemente l’utilizzo. Sull’iphone non esistono i file, e per fortuna direi. Quindi la strada giusta da percorrere è quella.  
+    *indizi: la tastiera più grande attivabile in Snow Leopard, lo snellimento di Snow Leopard che non ha senso se rapportato a dischi di 500gb ma ne ha se rapportato a dischi di 64gb come probabilmente avrà il tablet, tutto il know-how che c’è su snow leopard come gestione delle periferiche esterne, e infine il fatto che Apple abbia chiesto a certi sviluppatori di giochi per iphone preparare delle versioni adatte a schermi più grandi, dell’ordine di 10’’*
+
+2.  A cosa servirà? Il Tablet non si andrà a infilare in mezzo tra l’iphone e il Macbook. No, il Tablet sostituirà il Macbook e tutti i portatili. Il modo in cui interagiamo coi computer cambierà per sempre. Dopo 50 anni l’utente non dovrà più imparare come funziona il pc per poterlo usare, ma semplicemente sarà il sistema operativo a fare quasi tutto il lavoro sporco. Negli attuali computer ci sono troppi macigni che incontrano i nuovi utenti: devono capire il concetto di desktop/scrivania, devono capire il concetto di file cartelle e sotto cartelle, devono capire la distinzione tra librerie e file originali, devono imparare a cosa corrispondono una serie di tasti che non hanno mai visto prima di quel momento.  
+    Pensate: dovete necessariamente conoscere come funziona il motore per guidare una macchina? No. Dovete conoscere come salvare un file, dargli un nome, spostarlo nella giusta cartella e capire con quale programma aprirlo se volete scrivere un curriculum? Sì. E questo non è giusto.  
+    *indizi: a cosa servirebbe sennò il tablet? nessuno vuole doppioni. questa è la parte che manca più di indizi, ma che nonostante questo è più probabile che si verifichi*
+
+3.  Ci saranno ebook, giornali, fumetti. Apple sta prendendo accordi con molti attori del panorama riviste/pubblicazioni. Anche se lo schermo del tablet non faciliterà la lettura come quello degli ebook reader (chi vuole un tablet in bianco e nero?), ci saranno queste pubblicazioni. Un nuovo Store, coi metodi usati per l’iTunes Store e l’App Store.  
+    *recenti fughe di notizie che parlano di accordi con i colossi dell’informazione*

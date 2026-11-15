@@ -1,0 +1,33 @@
+title: Diego Petrucci
+description: Personal writing by Diego Petrucci.
+url: "https://diegopetrucci.github.io"
+baseurl: "/blog"
+timezone: Europe/London
+lang: en-GB
+permalink: /:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-feed
+feed:
+  path: feed.xml
+  posts_limit: 30
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      render_with_liquid: false
+exclude:
+  - scripts
+  - README.md
+  - AGENTS.md
+  - Gemfile
+  - Gemfile.lock
+  - migration-manifest.json
+  - media-manifest.json
+  - validation.json
+  - vendor

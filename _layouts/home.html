@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% assign offset = page.page_number | minus: 1 | times: 10 %}
+{% for post in site.posts limit:10 offset:offset %}
+<article class="post">
+  {% if post.title != '' %}<h1 class="title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>{% endif %}
+  <p class="post-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%-d %B %Y' }}</time></p>
+  <div class="the-content">{{ post.content }}</div>
+  <p class="permalink"><a href="{{ post.url | relative_url }}">Permalink</a></p>
+</article>
+{% endfor %}
+<nav class="pagination" aria-label="Pagination">
+  {% if page.page_number > 1 %}{% assign newer = page.page_number | minus: 1 %}{% if newer == 1 %}{% assign newer_url = '/' %}{% else %}{% capture newer_url %}/page/{{ newer }}/{% endcapture %}{% endif %}<a rel="prev" href="{{ newer_url | relative_url }}">← Newer posts</a>{% endif %}
+  <span>Page {{ page.page_number }} of {{ page.total_pages }}</span>
+  {% if page.page_number < page.total_pages %}{% assign older = page.page_number | plus: 1 %}{% capture older_url %}/page/{{ older }}/{% endcapture %}<a rel="next" href="{{ older_url | relative_url }}">Older posts →</a>{% endif %}
+</nav>

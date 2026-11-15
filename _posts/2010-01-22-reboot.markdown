@@ -1,0 +1,20 @@
+---
+layout: "post"
+title: "reboot"
+date: "2010-01-22 14:52:34 +0000"
+permalink: "/reboot/"
+wordpress_id: 106
+wordpress_guid: "https://www.diegopetrucci.it/blog/2010/01/22/reboot/"
+render_with_liquid: false
+categories: ["Uncategorised"]
+tags: []
+display_title: "reboot"
+---
+
+ok, ho deciso di tornare a scrivere in italiano sul blog. O almeno, mischierò articoli in inglese e in italiano, senza continuità.
+
+questo perché mi sono accorto che ci sono cose davvero belle che si dicono nella parte inglese della rete, soprattutto oltreoceano, ma che in italia non ho mai visto parlarne.
+
+il problema dello scrivere in inglese è che nessuno mi conosce, quindi scrivo, ok, ma non c’è conversazione. sulla parte italica di tumblr invece qualcuno sa chi sono, così da avere qualcuno che mi ascolta.
+
+perché l’ho sempre pensato, ma me ne sono accorto solo ora. scrivere in un blog (o in un tumblr, che sia), è come quando sei nel tuo gruppo dei tuoi amici e stai facendo un discorso mentre *tutti* ti ascoltano. hai quei due minuti e farai bene a dire cose interessanti.

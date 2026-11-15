@@ -1,0 +1,1992 @@
+{
+  "published_posts": 247,
+  "published_pages": 1,
+  "drafts_excluded": 9,
+  "approved_comments": 0,
+  "items": [
+    {
+      "id": 2,
+      "type": "page",
+      "original_url": "https://www.diegopetrucci.it/blog/sample-page/",
+      "permalink": "/sample-page/",
+      "file": "pages/sample-page.markdown",
+      "public_rendered_sha256": "19e4b13d0fcf6ac684c28e82f49328f221240a51c05624d079172daa1db51d84"
+    },
+    {
+      "id": 5,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/a-promise-for-2021/",
+      "permalink": "/a-promise-for-2021/",
+      "file": "_posts/2021-01-09-a-promise-for-2021.markdown",
+      "public_rendered_sha256": "a4d5bd7e91412aaf9edbfb6bff803eabe067ffbcc5d7929d8683aa186e495a87"
+    },
+    {
+      "id": 6,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/an-honest-retrospective-on-2020/",
+      "permalink": "/an-honest-retrospective-on-2020/",
+      "file": "_posts/2020-12-31-an-honest-retrospective-on-2020.markdown",
+      "public_rendered_sha256": "5ba22c59029274b5010a39c4359eef34c50aeda4f5d41a848b38e829bb95169f"
+    },
+    {
+      "id": 7,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/why-i-write-about-personal-stuff/",
+      "permalink": "/why-i-write-about-personal-stuff/",
+      "file": "_posts/2020-12-09-why-i-write-about-personal-stuff.markdown",
+      "public_rendered_sha256": "2fc883faf1fd2323bc9ad5fa6a68095216d4ceeb435526357cccc5b33fca4b62"
+    },
+    {
+      "id": 8,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/greyed-out/",
+      "permalink": "/greyed-out/",
+      "file": "_posts/2020-12-09-greyed-out.markdown",
+      "public_rendered_sha256": "304cb68058f7350bb937ec7866591af132738c15d3792ff1f807d100a252f9b6"
+    },
+    {
+      "id": 9,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/an-alias-to-free-up-space-taken-by-xcode-caches/",
+      "permalink": "/an-alias-to-free-up-space-taken-by-xcode-caches/",
+      "file": "_posts/2020-12-05-an-alias-to-free-up-space-taken-by-xcode-caches.markdown",
+      "public_rendered_sha256": "2d63017c2e7a3448e9e6322a69042f660ebbca8872638e311804019e8662ba58"
+    },
+    {
+      "id": 11,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-universe-truly-has-a-way/",
+      "permalink": "/the-universe-truly-has-a-way/",
+      "file": "_posts/2019-12-29-the-universe-truly-has-a-way.markdown",
+      "public_rendered_sha256": "d3dca83c719cf4f4a95d7f74ab2d0255a48d42a812cf73d6df1cda16041c4066"
+    },
+    {
+      "id": 12,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/home/",
+      "permalink": "/home/",
+      "file": "_posts/2019-11-21-home.markdown",
+      "public_rendered_sha256": "7a3c65ca9c5079898a5dd523c9d67ce180d810ddd5237883b8ccb0d99780ca00"
+    },
+    {
+      "id": 13,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/be-a-cat/",
+      "permalink": "/be-a-cat/",
+      "file": "_posts/2019-04-30-be-a-cat.markdown",
+      "public_rendered_sha256": "b4eaf954f071c277d2d30cc648609e621719fadc666ded1a71c852e4e020a781"
+    },
+    {
+      "id": 14,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/a-strategy-to-pick-up-girls/",
+      "permalink": "/a-strategy-to-pick-up-girls/",
+      "file": "_posts/2019-01-01-a-strategy-to-pick-up-girls.markdown",
+      "public_rendered_sha256": "874275ece62e963a677bdec33f4876ffad0aae22a6e29934f06d388912606599"
+    },
+    {
+      "id": 15,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/what-ive-neglected-lost-and-done-wrong/",
+      "permalink": "/what-ive-neglected-lost-and-done-wrong/",
+      "file": "_posts/2018-12-02-what-ive-neglected-lost-and-done-wrong.markdown",
+      "public_rendered_sha256": "c90b3a28d1d5b2d42d2b6b1c68c1e20d8b446000ff3a1e67cf00f8ae1956fe54"
+    },
+    {
+      "id": 16,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/what-ive-been-doing-in-the-past-eight-months-to/",
+      "permalink": "/what-ive-been-doing-in-the-past-eight-months-to/",
+      "file": "_posts/2018-11-25-what-ive-been-doing-in-the-past-eight-months-to.markdown",
+      "public_rendered_sha256": "df6b2675ea2ee5ea7b2e82ef692d06f76a8f2f9c0196d89b00579817cd298eeb"
+    },
+    {
+      "id": 17,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/how-to-animate-snapkit-constraint-changes-with/",
+      "permalink": "/how-to-animate-snapkit-constraint-changes-with/",
+      "file": "_posts/2016-12-30-how-to-animate-snapkit-constraint-changes-with.markdown",
+      "public_rendered_sha256": "0fc03de9abe424e8fd7218dd9ea36034e97462657f74623cdedffbb6fbcf42b1"
+    },
+    {
+      "id": 18,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/what-are-some-things-that-make-you-really-sad/",
+      "permalink": "/what-are-some-things-that-make-you-really-sad/",
+      "file": "_posts/2014-01-22-what-are-some-things-that-make-you-really-sad.markdown",
+      "public_rendered_sha256": "bcc7750785480bfd4184365cea4bbe0755a2b7095e04381573d7571708996cd9"
+    },
+    {
+      "id": 19,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/normal-people-and-the-ipad-as-a-second-class-citizen/",
+      "permalink": "/normal-people-and-the-ipad-as-a-second-class-citizen/",
+      "file": "_posts/2014-01-08-normal-people-and-the-ipad-as-a-second-class-citizen.markdown",
+      "public_rendered_sha256": "caa188a9d74ea9cdfb631625a7250f019102739637b36a97c30a27a9a0d5e7ac"
+    },
+    {
+      "id": 20,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-iphone-may-not-be-the-perfect-mobile-device-for/",
+      "permalink": "/the-iphone-may-not-be-the-perfect-mobile-device-for/",
+      "file": "_posts/2014-01-08-the-iphone-may-not-be-the-perfect-mobile-device-for.markdown",
+      "public_rendered_sha256": "ce23737e22f94d6361ae391b4440f1dc279a6b05050125b422e5605bee99a38a"
+    },
+    {
+      "id": 21,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/non-si-puo-essere-al-100-in-tutto/",
+      "permalink": "/non-si-puo-essere-al-100-in-tutto/",
+      "file": "_posts/2013-10-16-non-si-puo-essere-al-100-in-tutto.markdown",
+      "public_rendered_sha256": "36af5fca2edc2c363bcf32ab9ef73a9edd433c1777585395e27345dda99f930d"
+    },
+    {
+      "id": 22,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/dont-try-to-quit-youre-already-in-pain-youre/",
+      "permalink": "/dont-try-to-quit-youre-already-in-pain-youre/",
+      "file": "_posts/2013-07-27-dont-try-to-quit-youre-already-in-pain-youre.markdown",
+      "public_rendered_sha256": "3a47ac7540ff2ab7a71a6fffaeabfb0f7b7f3053d56eb5faa88cd10913a988f4"
+    },
+    {
+      "id": 24,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/mi-capita-a-me-prima-di-dormire-quando-non-ci/",
+      "permalink": "/mi-capita-a-me-prima-di-dormire-quando-non-ci/",
+      "file": "_posts/2013-06-29-mi-capita-a-me-prima-di-dormire-quando-non-ci.markdown",
+      "public_rendered_sha256": "d44a204839d15c81b95366b1fe5e8595defbb2c047ca6a526f207b343bf25486"
+    },
+    {
+      "id": 25,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/pompeii/",
+      "permalink": "/pompeii/",
+      "file": "_posts/2013-04-20-pompeii.markdown",
+      "public_rendered_sha256": "766f2f4c8e3e0306304f0aecce8e3e5f5e151aa2f67a948db8297ff34aae751b"
+    },
+    {
+      "id": 26,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/clothing-is-a-way-we-represent-ourselves-to/",
+      "permalink": "/clothing-is-a-way-we-represent-ourselves-to/",
+      "file": "_posts/2012-12-20-clothing-is-a-way-we-represent-ourselves-to.markdown",
+      "public_rendered_sha256": "19efc6a754c93469a3ad488bc05aeea650e081a93a1afdd5ba9bd518176b53d0"
+    },
+    {
+      "id": 27,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/come-si-fa-a-dimagrire/",
+      "permalink": "/come-si-fa-a-dimagrire/",
+      "file": "_posts/2012-10-02-come-si-fa-a-dimagrire.markdown",
+      "public_rendered_sha256": "e35ecd35afc386d91bad8737d6991448406766425beb5e5ea8deb91f2c496c2d"
+    },
+    {
+      "id": 28,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/mi-premeva-riportare-queste-due-chicche-ma-non-su/",
+      "permalink": "/mi-premeva-riportare-queste-due-chicche-ma-non-su/",
+      "file": "_posts/2012-09-14-mi-premeva-riportare-queste-due-chicche-ma-non-su.markdown",
+      "public_rendered_sha256": "95a42aaa2ce443d2a69644916a3f31ef7850ca0383ccafd8ecec3309f6bda18c"
+    },
+    {
+      "id": 29,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/le-cose-che-non-esistono/",
+      "permalink": "/le-cose-che-non-esistono/",
+      "file": "_posts/2012-07-13-le-cose-che-non-esistono.markdown",
+      "public_rendered_sha256": "961261d7b67d8f4b0fee82a7dade57d3186891390756256ed72e2313106081de"
+    },
+    {
+      "id": 30,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/il-matrimonio-gay-gia/",
+      "permalink": "/il-matrimonio-gay-gia/",
+      "file": "_posts/2012-06-27-il-matrimonio-gay-gia.markdown",
+      "public_rendered_sha256": "e6d66b682302987765c31573edf771ed2255f26040dc6b8b80e947a20232e889"
+    },
+    {
+      "id": 31,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/su-prigioni-lavori-e-premi-a-chi-legge-libri/",
+      "permalink": "/su-prigioni-lavori-e-premi-a-chi-legge-libri/",
+      "file": "_posts/2012-06-26-su-prigioni-lavori-e-premi-a-chi-legge-libri.markdown",
+      "public_rendered_sha256": "65554fe346a40a4f1723990788e15afc26e5bfa37d2c24350237a939c8098f06"
+    },
+    {
+      "id": 32,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/il-metodo-stanislavskij/",
+      "permalink": "/il-metodo-stanislavskij/",
+      "file": "_posts/2012-06-02-il-metodo-stanislavskij.markdown",
+      "public_rendered_sha256": "1681f9250c572abebe71d1a84ddbaa8e1adfecd074176f6643ff2fbd86c04b3d"
+    },
+    {
+      "id": 33,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/sommersi/",
+      "permalink": "/sommersi/",
+      "file": "_posts/2012-05-29-sommersi.markdown",
+      "public_rendered_sha256": "088515971d1e4599f9fa22d37be5da15bc4bde6766b8a5853fdca41b6d959ad1"
+    },
+    {
+      "id": 34,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/zero/",
+      "permalink": "/zero/",
+      "file": "_posts/2012-05-29-zero.markdown",
+      "public_rendered_sha256": "224b46a41f6ce989993abfdc30803364390dde9933a8ba7b892fcb38ef793cc2"
+    },
+    {
+      "id": 35,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/le-ho-dato-qualcosa-che-non-dimentichera-mai/",
+      "permalink": "/le-ho-dato-qualcosa-che-non-dimentichera-mai/",
+      "file": "_posts/2012-05-21-le-ho-dato-qualcosa-che-non-dimentichera-mai.markdown",
+      "public_rendered_sha256": "ac6045a44bc96f8166799830d0ed8ec3a896febc07ad642d340e7d763291b69c"
+    },
+    {
+      "id": 36,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/provare-limpossibile-cose-davvero-la-scienza/",
+      "permalink": "/provare-limpossibile-cose-davvero-la-scienza/",
+      "file": "_posts/2012-03-15-provare-limpossibile-cose-davvero-la-scienza.markdown",
+      "public_rendered_sha256": "1b575ddb06977d191da9dcbffd2f3a8c7e1927063b7bef34eb7e8573d254bd02"
+    },
+    {
+      "id": 37,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/perche-sono-favorevole-al-suicidio/",
+      "permalink": "/perche-sono-favorevole-al-suicidio/",
+      "file": "_posts/2011-10-26-perche-sono-favorevole-al-suicidio.markdown",
+      "public_rendered_sha256": "0eaaf49b6a9e3bcd591d055ae3b7a5ca69efe88b2cca44881b6da17fd8b23f09"
+    },
+    {
+      "id": 38,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/perche-sono-ateo-ma-ho-deciso-di-credere/",
+      "permalink": "/perche-sono-ateo-ma-ho-deciso-di-credere/",
+      "file": "_posts/2011-09-20-perche-sono-ateo-ma-ho-deciso-di-credere.markdown",
+      "public_rendered_sha256": "14a5d3b1f4284ceeee5281c3b10c0abf1cd67323dc51a8d143eb5ed8199c9281"
+    },
+    {
+      "id": 39,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/saro-felice-di-pagare-le-tasse/",
+      "permalink": "/saro-felice-di-pagare-le-tasse/",
+      "file": "_posts/2011-09-19-saro-felice-di-pagare-le-tasse.markdown",
+      "public_rendered_sha256": "b1ef22dbc130600caf63096b04f9f9af5ef520a1560c203d34245640ea986d3c"
+    },
+    {
+      "id": 40,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/velo-di-maya/",
+      "permalink": "/velo-di-maya/",
+      "file": "_posts/2011-09-15-velo-di-maya.markdown",
+      "public_rendered_sha256": "cf521d97e958c929141db731ab1a7f969d6d3193b93db4d73e148548c02a47b4"
+    },
+    {
+      "id": 41,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/boom-sei-morto-un-po-pero-sei-durato-dai/",
+      "permalink": "/boom-sei-morto-un-po-pero-sei-durato-dai/",
+      "file": "_posts/2011-09-05-boom-sei-morto-un-po-pero-sei-durato-dai.markdown",
+      "public_rendered_sha256": "46990fed2e1d39619addacab0dd83f1775dd3b7f1f20b6356643b22fd599c814"
+    },
+    {
+      "id": 42,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/non-sono-un-critico-musicale-ma-penso-di-poter/",
+      "permalink": "/non-sono-un-critico-musicale-ma-penso-di-poter/",
+      "file": "_posts/2011-07-16-non-sono-un-critico-musicale-ma-penso-di-poter.markdown",
+      "public_rendered_sha256": "f91bcf85ac3929682e012289e019539d50859196249362bfb0099889f9172642"
+    },
+    {
+      "id": 43,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/se-ti-chiedero-di-leggere-questo-articolo/",
+      "permalink": "/se-ti-chiedero-di-leggere-questo-articolo/",
+      "file": "_posts/2011-07-08-se-ti-chiedero-di-leggere-questo-articolo.markdown",
+      "public_rendered_sha256": "a6ba99b0c26888ff0086ecf6bf5fefe17f65238fc7cd7da02c79fe18a9b083e8"
+    },
+    {
+      "id": 44,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/trovato-morto-nudo-mentre-giocherellava-con-le-sue/",
+      "permalink": "/trovato-morto-nudo-mentre-giocherellava-con-le-sue/",
+      "file": "_posts/2011-07-04-trovato-morto-nudo-mentre-giocherellava-con-le-sue.markdown",
+      "public_rendered_sha256": "af23743060eb49dfcdbef6d0fc22c7be1303064f072508d21ef0d600cce35f6e"
+    },
+    {
+      "id": 45,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/il-mio-io-pensatore-e-un-gran-figlio-di-puttana/",
+      "permalink": "/il-mio-io-pensatore-e-un-gran-figlio-di-puttana/",
+      "file": "_posts/2011-03-29-il-mio-io-pensatore-e-un-gran-figlio-di-puttana.markdown",
+      "public_rendered_sha256": "cb00a7b8628d8ac6c15f9564783fa5eb6992c5f0bc12ce048298e73545680bd6"
+    },
+    {
+      "id": 46,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/prendi-un-pezzo-di-cuore-e-posalo-sul-tavolino/",
+      "permalink": "/prendi-un-pezzo-di-cuore-e-posalo-sul-tavolino/",
+      "file": "_posts/2011-03-11-prendi-un-pezzo-di-cuore-e-posalo-sul-tavolino.markdown",
+      "public_rendered_sha256": "0ab0dddc250a66533f9ea45b5b782d39ab917fb1a4cc3eefd6f0cc31b9fd6897"
+    },
+    {
+      "id": 47,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/non-sapevo-come-dirvi-mi-dispiace-e-ho-deciso-di/",
+      "permalink": "/non-sapevo-come-dirvi-mi-dispiace-e-ho-deciso-di/",
+      "file": "_posts/2011-03-10-non-sapevo-come-dirvi-mi-dispiace-e-ho-deciso-di.markdown",
+      "public_rendered_sha256": "e29eae7ac19a43be251c87fd545531fb31e9bdbfd567f101d2c8ebf36cbc9641"
+    },
+    {
+      "id": 48,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/voglio-morire-perche-sono-gia-morto/",
+      "permalink": "/voglio-morire-perche-sono-gia-morto/",
+      "file": "_posts/2011-03-07-voglio-morire-perche-sono-gia-morto.markdown",
+      "public_rendered_sha256": "a9f7ffa67e11d2e7302c53970fd779c1e7f0b2b2df537a45f262dd865443a656"
+    },
+    {
+      "id": 49,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/i-lutti-ce-ne-son-di-due-tipi-i-lutti-che-uno/",
+      "permalink": "/i-lutti-ce-ne-son-di-due-tipi-i-lutti-che-uno/",
+      "file": "_posts/2011-01-29-i-lutti-ce-ne-son-di-due-tipi-i-lutti-che-uno.markdown",
+      "public_rendered_sha256": "829ccd0f10e36797b62c735b2d27d4d550ffa80c4948397faa8ccaee403b9456"
+    },
+    {
+      "id": 50,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/siamo-tutti-dei-ladri-ed-e-la-cosa-piu-normale-del/",
+      "permalink": "/siamo-tutti-dei-ladri-ed-e-la-cosa-piu-normale-del/",
+      "file": "_posts/2011-01-23-siamo-tutti-dei-ladri-ed-e-la-cosa-piu-normale-del.markdown",
+      "public_rendered_sha256": "fc1ca6240a735945c577d4b0e0965272ccc84d5cc2b9e1763c703f1bb37d666f"
+    },
+    {
+      "id": 51,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ourtimes-submitted-by-diego-petrucci/",
+      "permalink": "/ourtimes-submitted-by-diego-petrucci/",
+      "file": "_posts/2011-01-06-ourtimes-submitted-by-diego-petrucci.markdown",
+      "public_rendered_sha256": "e614b062aba0dbfbf28fe53d189c4ecf4683de8fb6b1f95ae545bf5e2caae0c0"
+    },
+    {
+      "id": 54,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/di-religione-dio-e-spiritualismo/",
+      "permalink": "/di-religione-dio-e-spiritualismo/",
+      "file": "_posts/2010-12-17-di-religione-dio-e-spiritualismo.markdown",
+      "public_rendered_sha256": "b949d12d2e054e707427c548762359158ee052659114d98586ee3384a42f63df"
+    },
+    {
+      "id": 55,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/perdere-lallineamento-una-guida-per-la-vita/",
+      "permalink": "/perdere-lallineamento-una-guida-per-la-vita/",
+      "file": "_posts/2010-12-08-perdere-lallineamento-una-guida-per-la-vita.markdown",
+      "public_rendered_sha256": "6b1e94a3a3bc60a16b716cbb3bb78050d588a2dc7bba9edecf546ea89aa85e5c"
+    },
+    {
+      "id": 56,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/lintelligenza-artificiale-una-introduzione/",
+      "permalink": "/lintelligenza-artificiale-una-introduzione/",
+      "file": "_posts/2010-06-30-lintelligenza-artificiale-una-introduzione.markdown",
+      "public_rendered_sha256": "9d466b34d8d317e5cefbb4d66a63c28fa93e77b0ae58b095c4e40a39e213543b"
+    },
+    {
+      "id": 57,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/dieci-minuti-spesi-bene-come-non-lo-facevo-da/",
+      "permalink": "/dieci-minuti-spesi-bene-come-non-lo-facevo-da/",
+      "file": "_posts/2010-06-03-dieci-minuti-spesi-bene-come-non-lo-facevo-da.markdown",
+      "public_rendered_sha256": "2be15d5990af9403ed843a500746216692a661054a3892b9a26a09da2aeb22fc"
+    },
+    {
+      "id": 59,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/opportunita/",
+      "permalink": "/opportunita/",
+      "file": "_posts/2010-04-03-opportunita.markdown",
+      "public_rendered_sha256": "edbd5a0d67dafe392457517da60ff39eea731184461b4f75724a899f737ce342"
+    },
+    {
+      "id": 60,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/una-demo-di-swype-un-innovativo-tipo-di-tastiera/",
+      "permalink": "/una-demo-di-swype-un-innovativo-tipo-di-tastiera/",
+      "file": "_posts/2010-03-28-una-demo-di-swype-un-innovativo-tipo-di-tastiera.markdown",
+      "public_rendered_sha256": "b4bd96d95c5c2fbb88cb1b2e632594a37f55658b356326918a62a804bd1ffd7b"
+    },
+    {
+      "id": 62,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/questa-canzone-e-dedicata-a-lei-any-time-at-all/",
+      "permalink": "/questa-canzone-e-dedicata-a-lei-any-time-at-all/",
+      "file": "_posts/2010-03-12-questa-canzone-e-dedicata-a-lei-any-time-at-all.markdown",
+      "public_rendered_sha256": "afb1ed63922f3776321e99544a488b1574c89be753e7418cb1d8dbc810a96c51"
+    },
+    {
+      "id": 64,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/truly-amazing-non-ho-altre-parole-per-questa/",
+      "permalink": "/truly-amazing-non-ho-altre-parole-per-questa/",
+      "file": "_posts/2010-03-12-truly-amazing-non-ho-altre-parole-per-questa.markdown",
+      "public_rendered_sha256": "972770d74556b84ea6dc4c63891535debabd3200f5cb52065efe86352900250f"
+    },
+    {
+      "id": 66,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/bestfuckingpostever/",
+      "permalink": "/bestfuckingpostever/",
+      "file": "_posts/2010-03-10-bestfuckingpostever.markdown",
+      "public_rendered_sha256": "d7f823da7763a3c7e5c562f9f8666bbb1aa6b04b688892ddee8b3e390f15c793"
+    },
+    {
+      "id": 67,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/liphone-e-lipad-hanno-un-dannato-bisogno-di/",
+      "permalink": "/liphone-e-lipad-hanno-un-dannato-bisogno-di/",
+      "file": "_posts/2010-03-06-liphone-e-lipad-hanno-un-dannato-bisogno-di.markdown",
+      "public_rendered_sha256": "51d26ab8d6698a2df52071fb2235a99949622db570c4cad9e4c06000a63373ab"
+    },
+    {
+      "id": 68,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/di-regole-costanza-e-passioni/",
+      "permalink": "/di-regole-costanza-e-passioni/",
+      "file": "_posts/2010-03-05-di-regole-costanza-e-passioni.markdown",
+      "public_rendered_sha256": "ffe8a261f36e88e41942df55b63d0f1a3a535c762d7febc6b7c09103d4eab989"
+    },
+    {
+      "id": 69,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/abitudini/",
+      "permalink": "/abitudini/",
+      "file": "_posts/2010-03-02-abitudini.markdown",
+      "public_rendered_sha256": "2c2128bccacdbc751ead864f2ddda7d31d30b2a5c1b67e93fd291436b747c6e0"
+    },
+    {
+      "id": 70,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/our-souls-are-not-hungry-for-fame-comfort/",
+      "permalink": "/our-souls-are-not-hungry-for-fame-comfort/",
+      "file": "_posts/2010-02-26-our-souls-are-not-hungry-for-fame-comfort.markdown",
+      "public_rendered_sha256": "ff752f6d6fefdbdd7c94e4d6f2ab5a1b177467a35c1ebe12caf2ff8c45a14851"
+    },
+    {
+      "id": 71,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ma-perche-la-gente-non-fa-i-backup-be-trovare/",
+      "permalink": "/ma-perche-la-gente-non-fa-i-backup-be-trovare/",
+      "file": "_posts/2010-02-25-ma-perche-la-gente-non-fa-i-backup-be-trovare.markdown",
+      "public_rendered_sha256": "9cfc02f655afc5dea6ae8f9686ea8f343f2b4e48d8290bda92cab554411e28a1"
+    },
+    {
+      "id": 72,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ritorno-al-futuro/",
+      "permalink": "/ritorno-al-futuro/",
+      "file": "_posts/2010-02-23-ritorno-al-futuro.markdown",
+      "public_rendered_sha256": "655260f369c8f47079787f8a30f39244d3d3355ebbc99481d3ad45979c3cce28"
+    },
+    {
+      "id": 73,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ask-me-for-some-romance/",
+      "permalink": "/ask-me-for-some-romance/",
+      "file": "_posts/2010-02-21-ask-me-for-some-romance.markdown",
+      "public_rendered_sha256": "f89ce30d2b58325031cdec710b1323b2632ec2d1a2e89f5a97064950805d469a"
+    },
+    {
+      "id": 74,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/im-a-tool-builder-thats-how-i-think-of-myself/",
+      "permalink": "/im-a-tool-builder-thats-how-i-think-of-myself/",
+      "file": "_posts/2010-02-21-im-a-tool-builder-thats-how-i-think-of-myself.markdown",
+      "public_rendered_sha256": "14eccf98bc0ada99c6c5817680206534a2aa15c3708c5e9ba34342f5b4675026"
+    },
+    {
+      "id": 75,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ricordo-di-vita/",
+      "permalink": "/ricordo-di-vita/",
+      "file": "_posts/2010-02-21-ricordo-di-vita.markdown",
+      "public_rendered_sha256": "982fd3dac0eee1cec36761f550a889b7a5c0f28f2c3e88a76b06102898678bbc"
+    },
+    {
+      "id": 76,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/gli-ebook-i-libri-e-le-animazioni/",
+      "permalink": "/gli-ebook-i-libri-e-le-animazioni/",
+      "file": "_posts/2010-02-19-gli-ebook-i-libri-e-le-animazioni.markdown",
+      "public_rendered_sha256": "11f9b74b5722a47346e9516e668a672a7bd03acb0390f4921cbec313d2e099fd"
+    },
+    {
+      "id": 77,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/lipad-fondamentalmente-e-un-microonde/",
+      "permalink": "/lipad-fondamentalmente-e-un-microonde/",
+      "file": "_posts/2010-02-18-lipad-fondamentalmente-e-un-microonde.markdown",
+      "public_rendered_sha256": "17707cb7e2d3e9236e2cadfd00f8c614f6e6e01e8b5f7915485224f4d09372bc"
+    },
+    {
+      "id": 78,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/when-folks-need-an-elevator-we-should-give-them/",
+      "permalink": "/when-folks-need-an-elevator-we-should-give-them/",
+      "file": "_posts/2010-02-16-when-folks-need-an-elevator-we-should-give-them.markdown",
+      "public_rendered_sha256": "e5b794f3d1faee5088e21919edc4094d2ae47900b58375c4fe237e3ca886031f"
+    },
+    {
+      "id": 79,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/there-are-many-examples-of-people-doing-this-ndr/",
+      "permalink": "/there-are-many-examples-of-people-doing-this-ndr/",
+      "file": "_posts/2010-02-16-there-are-many-examples-of-people-doing-this-ndr.markdown",
+      "public_rendered_sha256": "e42002247c0c39b015b7a16cdd698ec0374f30f13f4cb77296ae4cfae9a93cba"
+    },
+    {
+      "id": 80,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/perche-internet-mi-ha-reso-una-persona-migliore/",
+      "permalink": "/perche-internet-mi-ha-reso-una-persona-migliore/",
+      "file": "_posts/2010-02-16-perche-internet-mi-ha-reso-una-persona-migliore.markdown",
+      "public_rendered_sha256": "07779dd3f2ee075e4feb3b5043c22721887fb221fc0c7316d486fe0cabf96ae3"
+    },
+    {
+      "id": 81,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/swissmiss-delivered-in-beta-how-are-social/",
+      "permalink": "/swissmiss-delivered-in-beta-how-are-social/",
+      "file": "_posts/2010-02-15-swissmiss-delivered-in-beta-how-are-social.markdown",
+      "public_rendered_sha256": "8143dc88422d24fda50b2d789eb4bca838579879396281a655253ef048c385d5"
+    },
+    {
+      "id": 83,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/splendida-via-mnmal/",
+      "permalink": "/splendida-via-mnmal/",
+      "file": "_posts/2010-02-13-splendida-via-mnmal.markdown",
+      "public_rendered_sha256": "940913337cf8a7e99f0ec645bba099feae15efad59c389785c83ab82c605e185"
+    },
+    {
+      "id": 86,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/lipad-e-la-wii/",
+      "permalink": "/lipad-e-la-wii/",
+      "file": "_posts/2010-02-11-lipad-e-la-wii.markdown",
+      "public_rendered_sha256": "b1388cc1d2e944c63a34507dffc0177e72f0e33a7f4ec67a3c5913da05ba4796"
+    },
+    {
+      "id": 87,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/chi-ha-bisogno-del-multitasking/",
+      "permalink": "/chi-ha-bisogno-del-multitasking/",
+      "file": "_posts/2010-02-10-chi-ha-bisogno-del-multitasking.markdown",
+      "public_rendered_sha256": "d0f99c2075a29a2331271a9c117321bb479cbeb55b3f388a8a4148eb7a238255"
+    },
+    {
+      "id": 88,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/un-favore/",
+      "permalink": "/un-favore/",
+      "file": "_posts/2010-02-07-un-favore.markdown",
+      "public_rendered_sha256": "da0586079df1584ae47aa7ebdc36c3b7b68380c9e09feb0ec04b6590279994f7"
+    },
+    {
+      "id": 89,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/le-fiabe-sono-piu-che-vere-non-tanto-perche/",
+      "permalink": "/le-fiabe-sono-piu-che-vere-non-tanto-perche/",
+      "file": "_posts/2010-02-05-le-fiabe-sono-piu-che-vere-non-tanto-perche.markdown",
+      "public_rendered_sha256": "0b89a82645100cb00bf3c374802341a484857874d82d61126ed2d1235dac9b74"
+    },
+    {
+      "id": 90,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/i-commenti-ai-blog-sono-la-rovina-del-mondo/",
+      "permalink": "/i-commenti-ai-blog-sono-la-rovina-del-mondo/",
+      "file": "_posts/2010-02-04-i-commenti-ai-blog-sono-la-rovina-del-mondo.markdown",
+      "public_rendered_sha256": "d893dce5eafd9b361f941fa327f52cc840d2c68638f8f88cf1636b33c82fca0f"
+    },
+    {
+      "id": 91,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/people-want-the-magic-they-dont-want-to-learn/",
+      "permalink": "/people-want-the-magic-they-dont-want-to-learn/",
+      "file": "_posts/2010-02-04-people-want-the-magic-they-dont-want-to-learn.markdown",
+      "public_rendered_sha256": "a6a851c57a746728a921d8392671f230325eb06a757cb05b3d86e5bf3429feb9"
+    },
+    {
+      "id": 92,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/amazon-e-apple-un-altro-fronte-di-guerra-gli/",
+      "permalink": "/amazon-e-apple-un-altro-fronte-di-guerra-gli/",
+      "file": "_posts/2010-01-31-amazon-e-apple-un-altro-fronte-di-guerra-gli.markdown",
+      "public_rendered_sha256": "45e2ae2009b2ea05d6f7fa85282f2a484a8eb12bb391a874ea64aedd875b30f4"
+    },
+    {
+      "id": 93,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/xkcd-a-webcomic-of-romance-sarcasm-math-and/",
+      "permalink": "/xkcd-a-webcomic-of-romance-sarcasm-math-and/",
+      "file": "_posts/2010-01-29-xkcd-a-webcomic-of-romance-sarcasm-math-and.markdown",
+      "public_rendered_sha256": "8dd7e14bd2a1540222733b29d95d99b88ee3b1bb2c2aff3b2cf6099e1afcb44e"
+    },
+    {
+      "id": 96,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ipad-e-il-futuro-dei-computer/",
+      "permalink": "/ipad-e-il-futuro-dei-computer/",
+      "file": "_posts/2010-01-29-ipad-e-il-futuro-dei-computer.markdown",
+      "public_rendered_sha256": "54b2014788db331c6ca050a2d310f908dbb27e2a61c94a7dbeb11a9f8680b43d"
+    },
+    {
+      "id": 97,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/we-all-have-strengths-we-all-have-weaknesses/",
+      "permalink": "/we-all-have-strengths-we-all-have-weaknesses/",
+      "file": "_posts/2010-01-28-we-all-have-strengths-we-all-have-weaknesses.markdown",
+      "public_rendered_sha256": "c7b33602fe0c510a48deb145b531f1f3c89b11871e495196f694e876595e33cb"
+    },
+    {
+      "id": 98,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/e-giunto-il-momento-che-apple-compri-dropbox-e/",
+      "permalink": "/e-giunto-il-momento-che-apple-compri-dropbox-e/",
+      "file": "_posts/2010-01-28-e-giunto-il-momento-che-apple-compri-dropbox-e.markdown",
+      "public_rendered_sha256": "4fc165db9bce4b28a6792a3530b5521aa21ca242e8f7feeaccc6d075d6cac912"
+    },
+    {
+      "id": 99,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/theres-an-awe-some-sat-is-fac-tion-derived-from/",
+      "permalink": "/theres-an-awe-some-sat-is-fac-tion-derived-from/",
+      "file": "_posts/2010-01-27-theres-an-awe-some-sat-is-fac-tion-derived-from.markdown",
+      "public_rendered_sha256": "95f5b9ed97a3c76d696c0afc27a6f81036004d8cd2aaea1504c9b2383eabc1d8"
+    },
+    {
+      "id": 100,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/was-huxley-right-hakiri-beh-non-credo-che-ci/",
+      "permalink": "/was-huxley-right-hakiri-beh-non-credo-che-ci/",
+      "file": "_posts/2010-01-25-was-huxley-right-hakiri-beh-non-credo-che-ci.markdown",
+      "public_rendered_sha256": "3c172f4613100f26fbdeae9dc42624e0fe5e6934ab8f08eb47156e450e9b8e61"
+    },
+    {
+      "id": 103,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/google-docs-gdrive-contro-mobileme/",
+      "permalink": "/google-docs-gdrive-contro-mobileme/",
+      "file": "_posts/2010-01-24-google-docs-gdrive-contro-mobileme.markdown",
+      "public_rendered_sha256": "c1c906ab1fec4de8da9619bc1ea55b0fb21b719492a08462d83177ad3a14342b"
+    },
+    {
+      "id": 104,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/perche-apple-deve-comprare-bing-e-firefox/",
+      "permalink": "/perche-apple-deve-comprare-bing-e-firefox/",
+      "file": "_posts/2010-01-23-perche-apple-deve-comprare-bing-e-firefox.markdown",
+      "public_rendered_sha256": "5eeb064c7eff55e79687119602751404401fd3de349fb3bccab8d5a9842b0d6d"
+    },
+    {
+      "id": 105,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/il-tablet/",
+      "permalink": "/il-tablet/",
+      "file": "_posts/2010-01-22-il-tablet.markdown",
+      "public_rendered_sha256": "97ab166747354c29c9097033bdfc135f41fc16ac7e5a9de7906bea1bab5d4a7f"
+    },
+    {
+      "id": 106,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/reboot/",
+      "permalink": "/reboot/",
+      "file": "_posts/2010-01-22-reboot.markdown",
+      "public_rendered_sha256": "83c10856599c9a42006d875c9e0b88644339a5df32cefb04a3f0d964386cdd7d"
+    },
+    {
+      "id": 107,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ignore-the-code-realism-in-ui-design/",
+      "permalink": "/ignore-the-code-realism-in-ui-design/",
+      "file": "_posts/2010-01-21-ignore-the-code-realism-in-ui-design.markdown",
+      "public_rendered_sha256": "97f2c2a803132782baec5e63d083ea183764a7f7b8003864f34104d008accf28"
+    },
+    {
+      "id": 108,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/it-doesnt-feel-very-optional-to-be-a-significant/",
+      "permalink": "/it-doesnt-feel-very-optional-to-be-a-significant/",
+      "file": "_posts/2010-01-21-it-doesnt-feel-very-optional-to-be-a-significant.markdown",
+      "public_rendered_sha256": "4017dc13128319975876681f8e80cee8051a4e555f5bd55346cb6bf9988cfe7b"
+    },
+    {
+      "id": 109,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/beatles-infographics/",
+      "permalink": "/beatles-infographics/",
+      "file": "_posts/2010-01-20-beatles-infographics.markdown",
+      "public_rendered_sha256": "f6deac7d9f9fdf33b1a2d8d2ad2d0332df057d9963958194379427b8b69f13b1"
+    },
+    {
+      "id": 110,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/love-this-bit-from-page-four-on-why-people-love/",
+      "permalink": "/love-this-bit-from-page-four-on-why-people-love/",
+      "file": "_posts/2010-01-19-love-this-bit-from-page-four-on-why-people-love.markdown",
+      "public_rendered_sha256": "09a02c7f71bd431e467999d8a710fb4c8742b6448d5442474812d43d4d8c53fd"
+    },
+    {
+      "id": 111,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/stop-being-a-productivity-nerd-feint/",
+      "permalink": "/stop-being-a-productivity-nerd-feint/",
+      "file": "_posts/2010-01-17-stop-being-a-productivity-nerd-feint.markdown",
+      "public_rendered_sha256": "79ef7427b6972a6f339987ea4d26b4850807ecb3f5dba41eaa330da3525c133e"
+    },
+    {
+      "id": 112,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/where-do-i-start-to-read/",
+      "permalink": "/where-do-i-start-to-read/",
+      "file": "_posts/2010-01-17-where-do-i-start-to-read.markdown",
+      "public_rendered_sha256": "6a30abb0724ea25d96fa72530a898bf272632eeb351e30b252cebc5e3cbdc476"
+    },
+    {
+      "id": 113,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/why-the-effort-to-give-snow-leopard-a-smaller/",
+      "permalink": "/why-the-effort-to-give-snow-leopard-a-smaller/",
+      "file": "_posts/2010-01-15-why-the-effort-to-give-snow-leopard-a-smaller.markdown",
+      "public_rendered_sha256": "2d69a43494f92c7fe81752397cdbade964fa02163385940eee139669d68a560d"
+    },
+    {
+      "id": 114,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/one-of-the-things-you-learn-as-you-go-through-this/",
+      "permalink": "/one-of-the-things-you-learn-as-you-go-through-this/",
+      "file": "_posts/2010-01-15-one-of-the-things-you-learn-as-you-go-through-this.markdown",
+      "public_rendered_sha256": "05669e4783e7f5a12bf15e13f68e8f0def9c7909975194871b94fa88d7c06f91"
+    },
+    {
+      "id": 115,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/an-amalgamation-of-predictions-and-questions/",
+      "permalink": "/an-amalgamation-of-predictions-and-questions/",
+      "file": "_posts/2010-01-13-an-amalgamation-of-predictions-and-questions.markdown",
+      "public_rendered_sha256": "3d902df1a4c13928b69909958ea3162ed3f79d848f6b64513d52a017f300138e"
+    },
+    {
+      "id": 116,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/that-said-ive-tried-out-more-than-a-few-browsers/",
+      "permalink": "/that-said-ive-tried-out-more-than-a-few-browsers/",
+      "file": "_posts/2010-01-12-that-said-ive-tried-out-more-than-a-few-browsers.markdown",
+      "public_rendered_sha256": "1ba09e695fd8067ae0c315a16d18384d14f3d5f4977c5200bb966089c8676c38"
+    },
+    {
+      "id": 117,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/il-mac-minimalista/",
+      "permalink": "/il-mac-minimalista/",
+      "file": "_posts/2010-01-12-il-mac-minimalista.markdown",
+      "public_rendered_sha256": "f0f2e37ebc304942b6d4ccd72f2cc51811f3729b559440a386edc584bcbf4e77"
+    },
+    {
+      "id": 118,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/touchscreen-sensibility-analysis-i-wonder-why/",
+      "permalink": "/touchscreen-sensibility-analysis-i-wonder-why/",
+      "file": "_posts/2010-01-10-touchscreen-sensibility-analysis-i-wonder-why.markdown",
+      "public_rendered_sha256": "f952d7338227adf0d6b31ca5fc611557c6dfec90f38f57207fab3a3e3a2f2316"
+    },
+    {
+      "id": 120,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/apple-was-quick-out-the-door-with-a-box-that-plugs/",
+      "permalink": "/apple-was-quick-out-the-door-with-a-box-that-plugs/",
+      "file": "_posts/2010-01-08-apple-was-quick-out-the-door-with-a-box-that-plugs.markdown",
+      "public_rendered_sha256": "d4b08531226ed14212468646a946abef692920b0061119461ae4cb10bcc9c31d"
+    },
+    {
+      "id": 121,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/if-there-was-one-thing-that-drew-me-to-this/",
+      "permalink": "/if-there-was-one-thing-that-drew-me-to-this/",
+      "file": "_posts/2010-01-08-if-there-was-one-thing-that-drew-me-to-this.markdown",
+      "public_rendered_sha256": "caac1a90bb017a9edcdbbfe43229d4b2e494b9800f36bfb3944575acfd4fa840"
+    },
+    {
+      "id": 122,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/it-is-harder-to-think-of-doing-something-than-to/",
+      "permalink": "/it-is-harder-to-think-of-doing-something-than-to/",
+      "file": "_posts/2010-01-08-it-is-harder-to-think-of-doing-something-than-to.markdown",
+      "public_rendered_sha256": "fb30e775878aaf323a8e664adf629f087721fa1470ee0a8b3d5c0bbc19abb4ce"
+    },
+    {
+      "id": 123,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/we-wanted-to-make-it-fast-and-easy-to-find-out/",
+      "permalink": "/we-wanted-to-make-it-fast-and-easy-to-find-out/",
+      "file": "_posts/2010-01-08-we-wanted-to-make-it-fast-and-easy-to-find-out.markdown",
+      "public_rendered_sha256": "c02dea7bcdb40168162977cbaf0e1460771eb4f6664f4fda70e526c93bfb3ffa"
+    },
+    {
+      "id": 124,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-tablet-is-apples-chance-at-applying-the/",
+      "permalink": "/the-tablet-is-apples-chance-at-applying-the/",
+      "file": "_posts/2010-01-05-the-tablet-is-apples-chance-at-applying-the.markdown",
+      "public_rendered_sha256": "faa08f032783697a0d9d6175328dda68bc9607a26a96f51f2402be0bf60222a6"
+    },
+    {
+      "id": 125,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/in-this-installation-yesyesno-teamed-up-with-the/",
+      "permalink": "/in-this-installation-yesyesno-teamed-up-with-the/",
+      "file": "_posts/2010-01-05-in-this-installation-yesyesno-teamed-up-with-the.markdown",
+      "public_rendered_sha256": "497f06e0b7d41fca127c92a447cc6415a038225dc604f7d25f95d610981da7db"
+    },
+    {
+      "id": 127,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/of-over-100000-available-iphone-apps-none-of/",
+      "permalink": "/of-over-100000-available-iphone-apps-none-of/",
+      "file": "_posts/2010-01-05-of-over-100000-available-iphone-apps-none-of.markdown",
+      "public_rendered_sha256": "3bc1522861d3f02914a8689ca665b6e5c111a22ea1c91ecb8cd64853bbe42dd1"
+    },
+    {
+      "id": 128,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-top-right-of-the-osx-menu-is-the-bastard/",
+      "permalink": "/the-top-right-of-the-osx-menu-is-the-bastard/",
+      "file": "_posts/2010-01-04-the-top-right-of-the-osx-menu-is-the-bastard.markdown",
+      "public_rendered_sha256": "d016268e46acc55491ec00a1eaf45b636a3a35d28aa777db615def5d6cc80692"
+    },
+    {
+      "id": 131,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/nice-talk-about-aesthetics/",
+      "permalink": "/nice-talk-about-aesthetics/",
+      "file": "_posts/2010-01-04-nice-talk-about-aesthetics.markdown",
+      "public_rendered_sha256": "cfb8b6311275aa5252046e96dccb7ecf228da9420eca6e5a4bc9cfe672f667d6"
+    },
+    {
+      "id": 133,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/rispostesenzadomanda/",
+      "permalink": "/rispostesenzadomanda/",
+      "file": "_posts/2010-01-02-rispostesenzadomanda.markdown",
+      "public_rendered_sha256": "c9c7252056600cd06fce69e05888e5793f1c288e8b7ba1b239599d789323b3e0"
+    },
+    {
+      "id": 136,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/after-a-weekend-of-vacation-forced-brainfreeze-and/",
+      "permalink": "/after-a-weekend-of-vacation-forced-brainfreeze-and/",
+      "file": "_posts/2010-01-02-after-a-weekend-of-vacation-forced-brainfreeze-and.markdown",
+      "public_rendered_sha256": "e25862333e270e8ebb961a2d16d64844b97cb4b5ba111d453b51659539083833"
+    },
+    {
+      "id": 137,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/sitting-at-a-desk-wasnt-enough-to-persuade-george/",
+      "permalink": "/sitting-at-a-desk-wasnt-enough-to-persuade-george/",
+      "file": "_posts/2010-01-02-sitting-at-a-desk-wasnt-enough-to-persuade-george.markdown",
+      "public_rendered_sha256": "2b9d5fa4edea717c3e03e8525676cfc2173976d2583cd6048202faabb8884ad3"
+    },
+    {
+      "id": 138,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/people-who-fail-to-write-novels-dont-do-it-by/",
+      "permalink": "/people-who-fail-to-write-novels-dont-do-it-by/",
+      "file": "_posts/2010-01-02-people-who-fail-to-write-novels-dont-do-it-by.markdown",
+      "public_rendered_sha256": "fe08221753265fa62f6c74bb0649b12bf2ed8dcf72bbe7ca0d3d5260ccf494bc"
+    },
+    {
+      "id": 139,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/something-i-feel-is-important-is-you-need-to-learn/",
+      "permalink": "/something-i-feel-is-important-is-you-need-to-learn/",
+      "file": "_posts/2010-01-02-something-i-feel-is-important-is-you-need-to-learn.markdown",
+      "public_rendered_sha256": "e3b501fb7fa544da17c18ca4757007833f2eab2cc41d7fe66c2749d72b675421"
+    },
+    {
+      "id": 140,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/we-are-what-we-repeatedly-do-excellence-then-is/",
+      "permalink": "/we-are-what-we-repeatedly-do-excellence-then-is/",
+      "file": "_posts/2010-01-02-we-are-what-we-repeatedly-do-excellence-then-is.markdown",
+      "public_rendered_sha256": "4744866800851eb5cc10c038224148306c68c3155e1515316e5b06e11d09a2f2"
+    },
+    {
+      "id": 141,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-moral-of-this-story-is-that-so-many-of-us-in/",
+      "permalink": "/the-moral-of-this-story-is-that-so-many-of-us-in/",
+      "file": "_posts/2010-01-01-the-moral-of-this-story-is-that-so-many-of-us-in.markdown",
+      "public_rendered_sha256": "4a30fb755ad259dbbb4bd7c86b216daec715962f2e5301a6f5d464e90ea93885"
+    },
+    {
+      "id": 142,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ourtimes-submitted-by-diego-petrucci-2/",
+      "permalink": "/ourtimes-submitted-by-diego-petrucci-2/",
+      "file": "_posts/2010-01-01-ourtimes-submitted-by-diego-petrucci-2.markdown",
+      "public_rendered_sha256": "fc4351817692855edb265acc27244b991753980fb13e683c5d170ccef0930ad6"
+    },
+    {
+      "id": 145,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/and-so-in-answer-to-my-central-question-regarding/",
+      "permalink": "/and-so-in-answer-to-my-central-question-regarding/",
+      "file": "_posts/2010-01-01-and-so-in-answer-to-my-central-question-regarding.markdown",
+      "public_rendered_sha256": "63dd0f47902a4ebdf569a2586698b040e2af480071967154af275f3b246ad3fe"
+    },
+    {
+      "id": 146,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/more-generally-you-can-have-a-fruitful-discussion/",
+      "permalink": "/more-generally-you-can-have-a-fruitful-discussion/",
+      "file": "_posts/2009-12-31-more-generally-you-can-have-a-fruitful-discussion.markdown",
+      "public_rendered_sha256": "d990999de0dca687de31f5cefa619fe711e253adef39ef50149f14f72fbee236"
+    },
+    {
+      "id": 147,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-top-10-decades-of-the-century-how-the-2000s/",
+      "permalink": "/the-top-10-decades-of-the-century-how-the-2000s/",
+      "file": "_posts/2009-12-30-the-top-10-decades-of-the-century-how-the-2000s.markdown",
+      "public_rendered_sha256": "2802d84329a6eee078cd004d9d415b05b2f699bc56636d3efe88dd0132afef0c"
+    },
+    {
+      "id": 148,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-lhc-is-not-merely-the-worlds-largest/",
+      "permalink": "/the-lhc-is-not-merely-the-worlds-largest/",
+      "file": "_posts/2009-12-30-the-lhc-is-not-merely-the-worlds-largest.markdown",
+      "public_rendered_sha256": "e15e4a25ab333ab5446b4b9296d4eb59f921bad025e321abfac7bafe514f7fd8"
+    },
+    {
+      "id": 149,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/when-john-was-just-a-little-professor-his-mother/",
+      "permalink": "/when-john-was-just-a-little-professor-his-mother/",
+      "file": "_posts/2009-12-30-when-john-was-just-a-little-professor-his-mother.markdown",
+      "public_rendered_sha256": "cdadb8900bd88b0384829675fa1114f56047c54c7e23a6b31be5a037db2ae05c"
+    },
+    {
+      "id": 150,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/which-leads-me-to-the-biggest-problem-with/",
+      "permalink": "/which-leads-me-to-the-biggest-problem-with/",
+      "file": "_posts/2009-12-30-which-leads-me-to-the-biggest-problem-with.markdown",
+      "public_rendered_sha256": "4419ad57d3c915f616ea96999943989975948446b35d10828059d2a497efc24c"
+    },
+    {
+      "id": 151,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ten-years-are-gone-op-chart-picturing-the-past/",
+      "permalink": "/ten-years-are-gone-op-chart-picturing-the-past/",
+      "file": "_posts/2009-12-29-ten-years-are-gone-op-chart-picturing-the-past.markdown",
+      "public_rendered_sha256": "da4aee3a21a7de1c0af63e97c995cd05fdff24d8a3a6d011f44f112968af4138"
+    },
+    {
+      "id": 154,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/i-have-a-terrible-singing-voice-but-my-children/",
+      "permalink": "/i-have-a-terrible-singing-voice-but-my-children/",
+      "file": "_posts/2009-12-29-i-have-a-terrible-singing-voice-but-my-children.markdown",
+      "public_rendered_sha256": "3040987b4a3917e4e3322aa1a30376d075786845112d351b475a7b9fc6bf8a28"
+    },
+    {
+      "id": 155,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/a-thousand-words-via-renault4/",
+      "permalink": "/a-thousand-words-via-renault4/",
+      "file": "_posts/2009-12-29-a-thousand-words-via-renault4.markdown",
+      "public_rendered_sha256": "47a5f50d0928d9c303843c41141a4099561cad75806162f1e9376831bb2963f9"
+    },
+    {
+      "id": 157,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/amazon-and-the-kindle-have-killed-the-bookstore/",
+      "permalink": "/amazon-and-the-kindle-have-killed-the-bookstore/",
+      "file": "_posts/2009-12-28-amazon-and-the-kindle-have-killed-the-bookstore.markdown",
+      "public_rendered_sha256": "6db18bc4664de1814d77f036e1cdf7e4d4b9f891b8493d4f90be808746dd12f1"
+    },
+    {
+      "id": 158,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/lets-try-a-thought-experiment-a-flying-saucer/",
+      "permalink": "/lets-try-a-thought-experiment-a-flying-saucer/",
+      "file": "_posts/2009-12-27-lets-try-a-thought-experiment-a-flying-saucer.markdown",
+      "public_rendered_sha256": "1e63d0f1dfb23bb1f9e9644c00ad5a90e175cb1dfa80706520f5a589e2526ccc"
+    },
+    {
+      "id": 159,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/in-search-of-the-worlds-hardest-language/",
+      "permalink": "/in-search-of-the-worlds-hardest-language/",
+      "file": "_posts/2009-12-27-in-search-of-the-worlds-hardest-language.markdown",
+      "public_rendered_sha256": "d12c286f989181e1971306c4d6cf2824cfc5807156c96de7bb67273207001868"
+    },
+    {
+      "id": 160,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/reading-devices-scrolling-vs-pagination/",
+      "permalink": "/reading-devices-scrolling-vs-pagination/",
+      "file": "_posts/2009-12-27-reading-devices-scrolling-vs-pagination.markdown",
+      "public_rendered_sha256": "dc5dfbe1c0c9ad83b39c73decb6295e3a41ee129cdb17b0a351ab950069e1303"
+    },
+    {
+      "id": 161,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/161/",
+      "permalink": "/161/",
+      "file": "_posts/2009-12-26-161.markdown",
+      "public_rendered_sha256": "1be1975c4cf24fca28d5a0b4f6e3f7357db9f79273da4c47d08fd98840df668f"
+    },
+    {
+      "id": 164,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-beatles-via/",
+      "permalink": "/the-beatles-via/",
+      "file": "_posts/2009-12-26-the-beatles-via.markdown",
+      "public_rendered_sha256": "40aef88322e9141794ee83fc277d048a36c52b0067472f43716d0a685fb8b4fe"
+    },
+    {
+      "id": 167,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/use-the-good-ol-one-in-one-out-rule-to/",
+      "permalink": "/use-the-good-ol-one-in-one-out-rule-to/",
+      "file": "_posts/2009-12-26-use-the-good-ol-one-in-one-out-rule-to.markdown",
+      "public_rendered_sha256": "ca6c641b91f9cb8c3b9017f87c93addb1c1da6b676ac889f96cd8a38bcc9a0f5"
+    },
+    {
+      "id": 168,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/learning-from-bad-graphs-and-weak-analysis/",
+      "permalink": "/learning-from-bad-graphs-and-weak-analysis/",
+      "file": "_posts/2009-12-26-learning-from-bad-graphs-and-weak-analysis.markdown",
+      "public_rendered_sha256": "b57eedb2cb86ce953992d2ad38688c176cdae40ee7bac82263ebb3e8e3668493"
+    },
+    {
+      "id": 169,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/awesome-click-to-see-an-enlarged-version/",
+      "permalink": "/awesome-click-to-see-an-enlarged-version/",
+      "file": "_posts/2009-12-25-awesome-click-to-see-an-enlarged-version.markdown",
+      "public_rendered_sha256": "42bc5a8a8f9fe76b2ebd829f518b3fc4afade71348ba7cde7016d0887de9e2b6"
+    },
+    {
+      "id": 171,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-things-you-own-end-up-owning-you/",
+      "permalink": "/the-things-you-own-end-up-owning-you/",
+      "file": "_posts/2009-12-25-the-things-you-own-end-up-owning-you.markdown",
+      "public_rendered_sha256": "796d95e6cf0efffa9d189efcd54c957435bfddc3274ba41e0645da7f658a12ce"
+    },
+    {
+      "id": 172,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/my-girlfriend-has-bought-another-dog-the-older/",
+      "permalink": "/my-girlfriend-has-bought-another-dog-the-older/",
+      "file": "_posts/2009-12-24-my-girlfriend-has-bought-another-dog-the-older.markdown",
+      "public_rendered_sha256": "dea905a4ba2bd45355397b9af451ee39ad09dd136add9972ab6b97da84ad537c"
+    },
+    {
+      "id": 173,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/on-deleting-feeds-without-missing-anything/",
+      "permalink": "/on-deleting-feeds-without-missing-anything/",
+      "file": "_posts/2009-12-23-on-deleting-feeds-without-missing-anything.markdown",
+      "public_rendered_sha256": "d2327c951dd20e42b50eb647aadb7be25c13ce9b893ea3979bf44b75675dc2a1"
+    },
+    {
+      "id": 174,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/but-i-think-thats-part-of-my-revulsion-at-the/",
+      "permalink": "/but-i-think-thats-part-of-my-revulsion-at-the/",
+      "file": "_posts/2009-12-23-but-i-think-thats-part-of-my-revulsion-at-the.markdown",
+      "public_rendered_sha256": "8a8c898272a96992dbbdfbbda20f99ed1b599edbaf7ac781814f31a16e02046c"
+    },
+    {
+      "id": 175,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/many-people-will-look-at-habit-change-as-a/",
+      "permalink": "/many-people-will-look-at-habit-change-as-a/",
+      "file": "_posts/2009-12-23-many-people-will-look-at-habit-change-as-a.markdown",
+      "public_rendered_sha256": "b832cbf4b015437fc9facb5800ea3489a68a9284a504133c2da9d55cb6c64f5f"
+    },
+    {
+      "id": 176,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/cause-we-are-free-we-choose-we-surrender-to/",
+      "permalink": "/cause-we-are-free-we-choose-we-surrender-to/",
+      "file": "_posts/2009-12-23-cause-we-are-free-we-choose-we-surrender-to.markdown",
+      "public_rendered_sha256": "3c12e74ed97bf401df9aae3ce4707f56c13044182eefd6907b884b8b4cf38d3a"
+    },
+    {
+      "id": 177,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/focusing-on-aligning-my-decisions-with-values/",
+      "permalink": "/focusing-on-aligning-my-decisions-with-values/",
+      "file": "_posts/2009-12-23-focusing-on-aligning-my-decisions-with-values.markdown",
+      "public_rendered_sha256": "b05359d824a5a260a7f9bd47bf596847b9a33253cc65d699511ff3e255e6ad6a"
+    },
+    {
+      "id": 178,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/describing-sex-is-like-licking-a-book/",
+      "permalink": "/describing-sex-is-like-licking-a-book/",
+      "file": "_posts/2009-12-23-describing-sex-is-like-licking-a-book.markdown",
+      "public_rendered_sha256": "fccf1dfdbccb4eb98066c4188ca22a7a89a98f8c9c814fecf0599f221de0a5dd"
+    },
+    {
+      "id": 179,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/best-horror-ever/",
+      "permalink": "/best-horror-ever/",
+      "file": "_posts/2009-12-22-best-horror-ever.markdown",
+      "public_rendered_sha256": "e9dc59c20d5dd3537ba6f176cc0000a199b212e4d3cb02aee6e1313c8c5cc78c"
+    },
+    {
+      "id": 181,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/for-the-same-reason-that-we-have-space-shuttle/",
+      "permalink": "/for-the-same-reason-that-we-have-space-shuttle/",
+      "file": "_posts/2009-12-22-for-the-same-reason-that-we-have-space-shuttle.markdown",
+      "public_rendered_sha256": "97e4b3d33ebf183b03d95620cf685ecb182f1c1087fe2e2713c1fb2e7bc93f20"
+    },
+    {
+      "id": 182,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/i-think-marcos-take-on-this-is-the-right-one/",
+      "permalink": "/i-think-marcos-take-on-this-is-the-right-one/",
+      "file": "_posts/2009-12-22-i-think-marcos-take-on-this-is-the-right-one.markdown",
+      "public_rendered_sha256": "39eec0c7ddc46b63fda498adcf4c69b91184fb124b6151f5fb8f230d054321ae"
+    },
+    {
+      "id": 183,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/anyway-the-answer-technology-is-important/",
+      "permalink": "/anyway-the-answer-technology-is-important/",
+      "file": "_posts/2009-12-22-anyway-the-answer-technology-is-important.markdown",
+      "public_rendered_sha256": "65345d4b23efda3176b0f5410c3e66add12e9aa698adc62f6f671140f904f9c9"
+    },
+    {
+      "id": 184,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/erin-has-used-a-phrase-in-her-blog-that-always/",
+      "permalink": "/erin-has-used-a-phrase-in-her-blog-that-always/",
+      "file": "_posts/2009-12-21-erin-has-used-a-phrase-in-her-blog-that-always.markdown",
+      "public_rendered_sha256": "4a9f4b4b0cef172e16e1fdc9045e1ffc7185874f36c0583a0b222185d0202c05"
+    },
+    {
+      "id": 185,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/when-something-is-simple-its-possible-to/",
+      "permalink": "/when-something-is-simple-its-possible-to/",
+      "file": "_posts/2009-12-21-when-something-is-simple-its-possible-to.markdown",
+      "public_rendered_sha256": "0f8bf696b63147fdf01915e202ceaa68ba699d6da4be60e70dbb3ca0314cc1df"
+    },
+    {
+      "id": 186,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/everybody-worships-the-only-choice-we-get-is-what/",
+      "permalink": "/everybody-worships-the-only-choice-we-get-is-what/",
+      "file": "_posts/2009-12-21-everybody-worships-the-only-choice-we-get-is-what.markdown",
+      "public_rendered_sha256": "181b8bb62a2e9e110566f89df4ea484c8e5b1f23b266c61e10d00af55f10d4c4"
+    },
+    {
+      "id": 187,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/some-of-us-run-in-the-middle-of-the-night-some-of/",
+      "permalink": "/some-of-us-run-in-the-middle-of-the-night-some-of/",
+      "file": "_posts/2009-12-21-some-of-us-run-in-the-middle-of-the-night-some-of.markdown",
+      "public_rendered_sha256": "0b337788bf1db37553ec32d3d1c19918b2efb0655142cd94246460de665e8d34"
+    },
+    {
+      "id": 188,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/lucca-the-image-has-been-modified-with/",
+      "permalink": "/lucca-the-image-has-been-modified-with/",
+      "file": "_posts/2009-12-21-lucca-the-image-has-been-modified-with.markdown",
+      "public_rendered_sha256": "8854ee3648ac79cbc7627d0e0f6866d3381c840e8efbfb8003ba2e375d9f8718"
+    },
+    {
+      "id": 191,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/5-things-challenge-week-four-introduction/",
+      "permalink": "/5-things-challenge-week-four-introduction/",
+      "file": "_posts/2009-12-21-5-things-challenge-week-four-introduction.markdown",
+      "public_rendered_sha256": "5f0a923b72bcff0dd2d945516f6d9e58b2ff695a4a4f9898538865158bec8fb7"
+    },
+    {
+      "id": 194,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/when-walking-walk-when-eating-eat/",
+      "permalink": "/when-walking-walk-when-eating-eat/",
+      "file": "_posts/2009-12-20-when-walking-walk-when-eating-eat.markdown",
+      "public_rendered_sha256": "635872c1883d710811d3bb2a55dff1f9c2cb09d4ce5d924552f2e861b14162aa"
+    },
+    {
+      "id": 195,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/organizing-is-not-about-neatening-things-up-and/",
+      "permalink": "/organizing-is-not-about-neatening-things-up-and/",
+      "file": "_posts/2009-12-20-organizing-is-not-about-neatening-things-up-and.markdown",
+      "public_rendered_sha256": "946d85210e30a19117876684c89c570825a557b7435d198b94a90244108dd3ac"
+    },
+    {
+      "id": 196,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/thats-amazing/",
+      "permalink": "/thats-amazing/",
+      "file": "_posts/2009-12-19-thats-amazing.markdown",
+      "public_rendered_sha256": "e42d209642e038cc73dc4e47fe959da8fa6f4bcbfb7e3e315c93c0e5bc6d6bb0"
+    },
+    {
+      "id": 198,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/thats-not-art/",
+      "permalink": "/thats-not-art/",
+      "file": "_posts/2009-12-19-thats-not-art.markdown",
+      "public_rendered_sha256": "26d74f57156f2bbde0ba4ac649a3cd2450ef045bf2aea283825b9370e45e3f2c"
+    },
+    {
+      "id": 199,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-tv-networks-already-seem-grudgingly-to-see/",
+      "permalink": "/the-tv-networks-already-seem-grudgingly-to-see/",
+      "file": "_posts/2009-12-19-the-tv-networks-already-seem-grudgingly-to-see.markdown",
+      "public_rendered_sha256": "d69d5c5f8f30ea0eb5f1911426d850371d0c413c450a4c1de4c64bc80a63994f"
+    },
+    {
+      "id": 200,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-good-news-is-if-youre-carrying-a-burden/",
+      "permalink": "/the-good-news-is-if-youre-carrying-a-burden/",
+      "file": "_posts/2009-12-19-the-good-news-is-if-youre-carrying-a-burden.markdown",
+      "public_rendered_sha256": "c8b9f3a8fdb0866d128de2285f25a2fd97571bd1cda51279fcbbe1e68b3c27fe"
+    },
+    {
+      "id": 201,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/you-dont-need-to-chase-everything-youve-always/",
+      "permalink": "/you-dont-need-to-chase-everything-youve-always/",
+      "file": "_posts/2009-12-19-you-dont-need-to-chase-everything-youve-always.markdown",
+      "public_rendered_sha256": "a2ac3e0ebce0f7d10bf624ed758d3b2e9c0999bdd9199fad25a0da4ed0d812df"
+    },
+    {
+      "id": 202,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/for-sentimental-items-and-nick-knacks-take-a/",
+      "permalink": "/for-sentimental-items-and-nick-knacks-take-a/",
+      "file": "_posts/2009-12-19-for-sentimental-items-and-nick-knacks-take-a.markdown",
+      "public_rendered_sha256": "87c0ff4b1e4784aca4c26da5a1db76e08e681770fba8e10369012325e5a30657"
+    },
+    {
+      "id": 203,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/wikipedians-are-80-percent-male-more-than-65/",
+      "permalink": "/wikipedians-are-80-percent-male-more-than-65/",
+      "file": "_posts/2009-12-19-wikipedians-are-80-percent-male-more-than-65.markdown",
+      "public_rendered_sha256": "b407260b71edf5ed02591db3d46a1db9fde1d6a73319069225cc2496a2671ce2"
+    },
+    {
+      "id": 204,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/smart-businesspeople-focus-on-the-things-they-have/",
+      "permalink": "/smart-businesspeople-focus-on-the-things-they-have/",
+      "file": "_posts/2009-12-19-smart-businesspeople-focus-on-the-things-they-have.markdown",
+      "public_rendered_sha256": "cb5bad7ac9681ce20ac55f20359a326ba70447ca3c59d4b6e4095394dafc9e0b"
+    },
+    {
+      "id": 205,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/what-i-expect/",
+      "permalink": "/what-i-expect/",
+      "file": "_posts/2009-12-19-what-i-expect.markdown",
+      "public_rendered_sha256": "5b03ea312aef1c5f8341dcdbaab6ad95885d6f42ae1f2dfce6da08d13a82e7fb"
+    },
+    {
+      "id": 206,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/on-a-different-note-theres-a-bummer-aspect-to/",
+      "permalink": "/on-a-different-note-theres-a-bummer-aspect-to/",
+      "file": "_posts/2009-12-19-on-a-different-note-theres-a-bummer-aspect-to.markdown",
+      "public_rendered_sha256": "36282f9677a42ec8af65e52cb9460a3169739625a46a9b1aa629261e2188f432"
+    },
+    {
+      "id": 207,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/visiting-his-grandpa-but-the-whole-time-i-had/",
+      "permalink": "/visiting-his-grandpa-but-the-whole-time-i-had/",
+      "file": "_posts/2009-12-18-visiting-his-grandpa-but-the-whole-time-i-had.markdown",
+      "public_rendered_sha256": "c105ad9ec40319db120add61306276097e61b5bf54569d328dbf174410197223"
+    },
+    {
+      "id": 208,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/early-in-life-you-recognize-that-everything-is-a/",
+      "permalink": "/early-in-life-you-recognize-that-everything-is-a/",
+      "file": "_posts/2009-12-18-early-in-life-you-recognize-that-everything-is-a.markdown",
+      "public_rendered_sha256": "4e0d5ac49cb4169ceede472e6c9c9bb44a9826dfef896c19ed741d87078ea696"
+    },
+    {
+      "id": 209,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/in-my-three-months-since-i-started-acting-on-my/",
+      "permalink": "/in-my-three-months-since-i-started-acting-on-my/",
+      "file": "_posts/2009-12-18-in-my-three-months-since-i-started-acting-on-my.markdown",
+      "public_rendered_sha256": "9c7fa8d794ebc757b355ad4384b603e0ab35bd5a4fdf081a7817c1ebb3d18a98"
+    },
+    {
+      "id": 210,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/our-souls-are-not-hungry-for-fame-comfort-2/",
+      "permalink": "/our-souls-are-not-hungry-for-fame-comfort-2/",
+      "file": "_posts/2009-12-18-our-souls-are-not-hungry-for-fame-comfort-2.markdown",
+      "public_rendered_sha256": "acf29a26101e2186f78c275f8f05f64c6ce4af53c68c52c6b2d916492320fea3"
+    },
+    {
+      "id": 211,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/mag/",
+      "permalink": "/mag/",
+      "file": "_posts/2009-12-18-mag.markdown",
+      "public_rendered_sha256": "0ac3cc823cf787197f77ccce74c5b4a4df1fec9bfdcbd47421fb0d7b8c878d63"
+    },
+    {
+      "id": 213,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/da-ora-in-avanti-si-scrive-in-inglese-ci-saranno/",
+      "permalink": "/da-ora-in-avanti-si-scrive-in-inglese-ci-saranno/",
+      "file": "_posts/2009-12-18-da-ora-in-avanti-si-scrive-in-inglese-ci-saranno.markdown",
+      "public_rendered_sha256": "2b410102698abf2bf1fb2b7cc7bc1a2a76099e0390cca81514c8902548265a54"
+    },
+    {
+      "id": 214,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-ability-to-simplify-means-to-eliminate-the/",
+      "permalink": "/the-ability-to-simplify-means-to-eliminate-the/",
+      "file": "_posts/2009-12-17-the-ability-to-simplify-means-to-eliminate-the.markdown",
+      "public_rendered_sha256": "5d80ccc3f1c5cb89b7e5a0dd94528636d89e89c8a5d138180d274b0760e52672"
+    },
+    {
+      "id": 215,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/via-untemporale/",
+      "permalink": "/via-untemporale/",
+      "file": "_posts/2009-12-17-via-untemporale.markdown",
+      "public_rendered_sha256": "c640a52b3178712d9af3f4e73b96f530232f4566721bf4809084a04cd23ceb78"
+    },
+    {
+      "id": 218,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/rumore-di-fondo/",
+      "permalink": "/rumore-di-fondo/",
+      "file": "_posts/2009-12-17-rumore-di-fondo.markdown",
+      "public_rendered_sha256": "987d1d5b9be725667cf34570a8d29e88a3f42e94d4aede7a5295c5fd8deb7ff0"
+    },
+    {
+      "id": 219,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/a-darmi-ragione-ce-questaltro-interessante/",
+      "permalink": "/a-darmi-ragione-ce-questaltro-interessante/",
+      "file": "_posts/2009-12-16-a-darmi-ragione-ce-questaltro-interessante.markdown",
+      "public_rendered_sha256": "19da5c3ffbdbf0a2b0e7906c9ff77f873b9e52ce6bffd1701a233302a6a82a3e"
+    },
+    {
+      "id": 220,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-plasters-were-removed-using-both-fast-and/",
+      "permalink": "/the-plasters-were-removed-using-both-fast-and/",
+      "file": "_posts/2009-12-15-the-plasters-were-removed-using-both-fast-and.markdown",
+      "public_rendered_sha256": "b8f78951fc10d6ff2fbf692cddcde3a6753df8e40cd9be2ec13147fe9025a27c"
+    },
+    {
+      "id": 221,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/seths-blog-what-matters-now/",
+      "permalink": "/seths-blog-what-matters-now/",
+      "file": "_posts/2009-12-15-seths-blog-what-matters-now.markdown",
+      "public_rendered_sha256": "9127a496e86a694de5f60c0577dda15e099fa7338625239df31eda7afad3ca64"
+    },
+    {
+      "id": 222,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/well-when-people-are-deciding-at-first-what/",
+      "permalink": "/well-when-people-are-deciding-at-first-what/",
+      "file": "_posts/2009-12-14-well-when-people-are-deciding-at-first-what.markdown",
+      "public_rendered_sha256": "6ec4d48194331c765074b232468bbbbcabfbde57476f8c37e5f27f9c1a90aede"
+    },
+    {
+      "id": 223,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/on-friday-night-my-dear-friend-clark-and-i-were/",
+      "permalink": "/on-friday-night-my-dear-friend-clark-and-i-were/",
+      "file": "_posts/2009-12-14-on-friday-night-my-dear-friend-clark-and-i-were.markdown",
+      "public_rendered_sha256": "d7e267b5babe28cfdb07b4d30818e9632b102fa2c3eea1b45503c13c229efef1"
+    },
+    {
+      "id": 224,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/your-designs-are-too-pretty-too-beautiful/",
+      "permalink": "/your-designs-are-too-pretty-too-beautiful/",
+      "file": "_posts/2009-12-14-your-designs-are-too-pretty-too-beautiful.markdown",
+      "public_rendered_sha256": "798fd933f120402e9a26f99ab6d7be65ea548c2b12d52ef5ae38350056c6db6c"
+    },
+    {
+      "id": 225,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-minimum-bar-for-a-reliable-service-is-not-that/",
+      "permalink": "/the-minimum-bar-for-a-reliable-service-is-not-that/",
+      "file": "_posts/2009-12-14-the-minimum-bar-for-a-reliable-service-is-not-that.markdown",
+      "public_rendered_sha256": "01804277e1fdd2d284150330bb9b63a8c24512ce0dca20694809f19ea2860085"
+    },
+    {
+      "id": 226,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/con-qualche-moccolo-sono-riuscito-a-collegare-la/",
+      "permalink": "/con-qualche-moccolo-sono-riuscito-a-collegare-la/",
+      "file": "_posts/2009-12-14-con-qualche-moccolo-sono-riuscito-a-collegare-la.markdown",
+      "public_rendered_sha256": "e0d485a81512684467d198e543f5c592673fa0e940e81416c66078c738a90a3e"
+    },
+    {
+      "id": 228,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/su-saturno-ce-una-roba-cosi-perfetta-e/",
+      "permalink": "/su-saturno-ce-una-roba-cosi-perfetta-e/",
+      "file": "_posts/2009-12-14-su-saturno-ce-una-roba-cosi-perfetta-e.markdown",
+      "public_rendered_sha256": "1bf3f5bed0b779ef211f76a0f97ff1468be41e4f64569324782a4c8b530bc512"
+    },
+    {
+      "id": 231,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/231/",
+      "permalink": "/231/",
+      "file": "_posts/2009-12-13-231.markdown",
+      "public_rendered_sha256": "313d80465247818799de9c31b2ddd9ee014842cef270f0e884c8342485c3075f"
+    },
+    {
+      "id": 234,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/when-i-was-a-kid-i-from-a-post-at-swissmiss/",
+      "permalink": "/when-i-was-a-kid-i-from-a-post-at-swissmiss/",
+      "file": "_posts/2009-12-13-when-i-was-a-kid-i-from-a-post-at-swissmiss.markdown",
+      "public_rendered_sha256": "72723a0993d4cb881cf8b8c0eb91c66baf45f5239f31f60ec1a6867351b504d6"
+    },
+    {
+      "id": 237,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/if-con-is-the-opposite-of-pro-wouldnt-congress/",
+      "permalink": "/if-con-is-the-opposite-of-pro-wouldnt-congress/",
+      "file": "_posts/2009-12-13-if-con-is-the-opposite-of-pro-wouldnt-congress.markdown",
+      "public_rendered_sha256": "173f402802b01b82c1609418ce367f8dab5068daf2acd00e2bd2e2eb33a41add"
+    },
+    {
+      "id": 238,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/words-that-dont-exist-in-the-english-language-e/",
+      "permalink": "/words-that-dont-exist-in-the-english-language-e/",
+      "file": "_posts/2009-12-13-words-that-dont-exist-in-the-english-language-e.markdown",
+      "public_rendered_sha256": "458a591b8f2286cbc0277f4f25735b954409266020096434d0f4f06465c9af4f"
+    },
+    {
+      "id": 239,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/5-things-challenge-terza-settimana/",
+      "permalink": "/5-things-challenge-terza-settimana/",
+      "file": "_posts/2009-12-13-5-things-challenge-terza-settimana.markdown",
+      "public_rendered_sha256": "70e5495c1bda1daf05332e769fc2bb6bc661220c0e6a8b9dcc889814cbaeb391"
+    },
+    {
+      "id": 242,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/so-if-people-are-willing-to-pay-for-that-elevated/",
+      "permalink": "/so-if-people-are-willing-to-pay-for-that-elevated/",
+      "file": "_posts/2009-12-12-so-if-people-are-willing-to-pay-for-that-elevated.markdown",
+      "public_rendered_sha256": "76e17261b880e893d7968543b5fa633e21afdd5fc1fe9ee410abb2fef950576a"
+    },
+    {
+      "id": 243,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/beyond-my-circle-of-acquaintances-nintendo-is/",
+      "permalink": "/beyond-my-circle-of-acquaintances-nintendo-is/",
+      "file": "_posts/2009-12-12-beyond-my-circle-of-acquaintances-nintendo-is.markdown",
+      "public_rendered_sha256": "ac0b77dba0d08acf887b0876c6760f7de6c6a9c93c6b0660cb51a7e735066f63"
+    },
+    {
+      "id": 244,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/video-con-liphone-3g/",
+      "permalink": "/video-con-liphone-3g/",
+      "file": "_posts/2009-12-12-video-con-liphone-3g.markdown",
+      "public_rendered_sha256": "1ff7f90743499886a1c232e347e2af1b0c9d50b60c0752fead94b54594840973"
+    },
+    {
+      "id": 245,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/when-things-go-perfectly-sometimes-its-hard-to/",
+      "permalink": "/when-things-go-perfectly-sometimes-its-hard-to/",
+      "file": "_posts/2009-12-12-when-things-go-perfectly-sometimes-its-hard-to.markdown",
+      "public_rendered_sha256": "d2eff687bf318182ba167e219bbe4c14ad3ea921006e5379340da9ad3b7345c7"
+    },
+    {
+      "id": 246,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/david-pouge-at-ted-if-you-are-a-developer-the/",
+      "permalink": "/david-pouge-at-ted-if-you-are-a-developer-the/",
+      "file": "_posts/2009-12-11-david-pouge-at-ted-if-you-are-a-developer-the.markdown",
+      "public_rendered_sha256": "0b7eeac5ffeb4558ea5d02d147bfe466a693ca14208dc03c59e13249cdde9f84"
+    },
+    {
+      "id": 248,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/il-miglior-articolo-sulla-sinistra-italiana-degli/",
+      "permalink": "/il-miglior-articolo-sulla-sinistra-italiana-degli/",
+      "file": "_posts/2009-12-11-il-miglior-articolo-sulla-sinistra-italiana-degli.markdown",
+      "public_rendered_sha256": "f162e75601d29da0cf00e2596f286c03a47a2f50d3e76ccab41213c98bc598db"
+    },
+    {
+      "id": 249,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/it-was-a-difficult-way-to-learn-something-our/",
+      "permalink": "/it-was-a-difficult-way-to-learn-something-our/",
+      "file": "_posts/2009-12-11-it-was-a-difficult-way-to-learn-something-our.markdown",
+      "public_rendered_sha256": "6b174e36de34f873ade62d6b61c3fe032a84a29b6c6e635f595aae8da4df68b0"
+    },
+    {
+      "id": 250,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/wisdom-is-knowing-what-to-do-next-skill-is/",
+      "permalink": "/wisdom-is-knowing-what-to-do-next-skill-is/",
+      "file": "_posts/2009-12-11-wisdom-is-knowing-what-to-do-next-skill-is.markdown",
+      "public_rendered_sha256": "e6e2e2f25bef05673d3329056e1e9c522bd0ac523770346dbc4990a64a281451"
+    },
+    {
+      "id": 251,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/work-expands-so-as-to-fill-the-time-available-for/",
+      "permalink": "/work-expands-so-as-to-fill-the-time-available-for/",
+      "file": "_posts/2009-12-11-work-expands-so-as-to-fill-the-time-available-for.markdown",
+      "public_rendered_sha256": "57bd2c2a05c8347e076feb7f68be9fab87063ea71fbfbf0e5727dfe798cc512c"
+    },
+    {
+      "id": 252,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/when-you-make-a-bad-decision-you-can-always/",
+      "permalink": "/when-you-make-a-bad-decision-you-can-always/",
+      "file": "_posts/2009-12-11-when-you-make-a-bad-decision-you-can-always.markdown",
+      "public_rendered_sha256": "460a1db84957150401a3cf2e16e86a05f4f50fdc9838f8e0f9aa57e1c16637c9"
+    },
+    {
+      "id": 253,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-joy-of-tech/",
+      "permalink": "/the-joy-of-tech/",
+      "file": "_posts/2009-12-11-the-joy-of-tech.markdown",
+      "public_rendered_sha256": "9f0bdb81bbc5ade08e41065d72606ff3ae66492082f6279aa54d9bdb437d5c19"
+    },
+    {
+      "id": 256,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/therein-lies-the-best-career-advice-i-could/",
+      "permalink": "/therein-lies-the-best-career-advice-i-could/",
+      "file": "_posts/2009-12-10-therein-lies-the-best-career-advice-i-could.markdown",
+      "public_rendered_sha256": "c6b47edcbc16feab573a7a2f6ce32d19b043364f383364bf910f88df52673f06"
+    },
+    {
+      "id": 257,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ubiquity/",
+      "permalink": "/ubiquity/",
+      "file": "_posts/2009-12-09-ubiquity.markdown",
+      "public_rendered_sha256": "55c0dbef87a871f3b1ce5f93581071fe2e55f722a2d0badc4fa840e8dfeeb730"
+    },
+    {
+      "id": 258,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/you-centric-a-sketch-of-the-future-of-browsers/",
+      "permalink": "/you-centric-a-sketch-of-the-future-of-browsers/",
+      "file": "_posts/2009-12-09-you-centric-a-sketch-of-the-future-of-browsers.markdown",
+      "public_rendered_sha256": "a87d3bb7c34fec1d30906fd5fe80cef1de34e8db5c872d34cf3d3e4547990896"
+    },
+    {
+      "id": 260,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/we-can-talk-on-a-cell-phone-while-driving-to-work/",
+      "permalink": "/we-can-talk-on-a-cell-phone-while-driving-to-work/",
+      "file": "_posts/2009-12-09-we-can-talk-on-a-cell-phone-while-driving-to-work.markdown",
+      "public_rendered_sha256": "2a4a2510c04b7da4f6152f971f07ec9a32051410de76536d54e1cae5b4f05149"
+    },
+    {
+      "id": 261,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/lucidica-for-google-reader/",
+      "permalink": "/lucidica-for-google-reader/",
+      "file": "_posts/2009-12-09-lucidica-for-google-reader.markdown",
+      "public_rendered_sha256": "bd2bd818ba87d56aff3eef1cf624179f3831d0fb28f24dd79bca6ef0e81c43c3"
+    },
+    {
+      "id": 262,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/whats-the-lesson-to-be-learned-if-you-want-a/",
+      "permalink": "/whats-the-lesson-to-be-learned-if-you-want-a/",
+      "file": "_posts/2009-12-09-whats-the-lesson-to-be-learned-if-you-want-a.markdown",
+      "public_rendered_sha256": "cf7d281ccb5520cdf8a870279a433df59c1e85896a86760f15fd0f544c30e3fb"
+    },
+    {
+      "id": 263,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/caro-fotonico-o-come-diavolo-ti-chiami-di-solito/",
+      "permalink": "/caro-fotonico-o-come-diavolo-ti-chiami-di-solito/",
+      "file": "_posts/2009-12-09-caro-fotonico-o-come-diavolo-ti-chiami-di-solito.markdown",
+      "public_rendered_sha256": "a1956430a3cf99e83331fabfadf3f4ba3b70ca0d5b2df8372e278bd9dfb6a90d"
+    },
+    {
+      "id": 264,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/quando-ti-fai-quella-foto-tessera-non-stai-troppo/",
+      "permalink": "/quando-ti-fai-quella-foto-tessera-non-stai-troppo/",
+      "file": "_posts/2009-12-08-quando-ti-fai-quella-foto-tessera-non-stai-troppo.markdown",
+      "public_rendered_sha256": "f9928acf82cec7f52ec8a203ef74872e33696763776a91d476cff9f9247f474c"
+    },
+    {
+      "id": 265,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/editors-and-end-has-a-start-live-in-rome-dec-03/",
+      "permalink": "/editors-and-end-has-a-start-live-in-rome-dec-03/",
+      "file": "_posts/2009-12-08-editors-and-end-has-a-start-live-in-rome-dec-03.markdown",
+      "public_rendered_sha256": "b5a2cbf54c0d52d98a599ee7291c1b574e0fe2cb4f9d37bc15d92861450c129d"
+    },
+    {
+      "id": 267,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/why-that-strategy-of-retail-stores-has-worked/",
+      "permalink": "/why-that-strategy-of-retail-stores-has-worked/",
+      "file": "_posts/2009-12-08-why-that-strategy-of-retail-stores-has-worked.markdown",
+      "public_rendered_sha256": "3bba75ef69472ceca1ed0626c1627b694e67f90d33029e359f4fe6bfdfde735d"
+    },
+    {
+      "id": 268,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/normal-people-do-have-one-thing-figured-out-that/",
+      "permalink": "/normal-people-do-have-one-thing-figured-out-that/",
+      "file": "_posts/2009-12-08-normal-people-do-have-one-thing-figured-out-that.markdown",
+      "public_rendered_sha256": "fe9aa0d3386d64ebd5a3d09094fc1fa9221675146ceabca822c6c7e30897418a"
+    },
+    {
+      "id": 269,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/quando-si-dice-uninterfaccia-umana/",
+      "permalink": "/quando-si-dice-uninterfaccia-umana/",
+      "file": "_posts/2009-12-07-quando-si-dice-uninterfaccia-umana.markdown",
+      "public_rendered_sha256": "3e0095d642f514b19f4b88ff60cbb2242b88dcdae8f9d00a2c836afd9a254069"
+    },
+    {
+      "id": 271,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/vediamo-un-gruppo-di-giovani-studenti-iraniani-che/",
+      "permalink": "/vediamo-un-gruppo-di-giovani-studenti-iraniani-che/",
+      "file": "_posts/2009-12-07-vediamo-un-gruppo-di-giovani-studenti-iraniani-che.markdown",
+      "public_rendered_sha256": "4b1d8f09fbcfab4d89c190d1df967a62b2227e520d3b8e219df3c9fd9c1724fe"
+    },
+    {
+      "id": 272,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/la-piu-alta-forma-di-intelligenza-umana-e-la/",
+      "permalink": "/la-piu-alta-forma-di-intelligenza-umana-e-la/",
+      "file": "_posts/2009-12-07-la-piu-alta-forma-di-intelligenza-umana-e-la.markdown",
+      "public_rendered_sha256": "f2b59f14afd98586e33353d6a570572c7dab058fe490443bc08647613033d2b9"
+    },
+    {
+      "id": 273,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/5-things-challenge-week-two-introduzione/",
+      "permalink": "/5-things-challenge-week-two-introduzione/",
+      "file": "_posts/2009-12-06-5-things-challenge-week-two-introduzione.markdown",
+      "public_rendered_sha256": "0fe99ca9ccef732009b7e6ff281fb104d71e7df62e71ee7102ff80a65b885c51"
+    },
+    {
+      "id": 276,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ho-appena-comprato-snappy-dal-cydia-store-per/",
+      "permalink": "/ho-appena-comprato-snappy-dal-cydia-store-per/",
+      "file": "_posts/2009-12-05-ho-appena-comprato-snappy-dal-cydia-store-per.markdown",
+      "public_rendered_sha256": "5e835573dfa24502ebe05a3fee7efb9507cc7cd25c54881c0266416f532585dc"
+    },
+    {
+      "id": 278,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/we-are-all-born-mad-some-remain-so/",
+      "permalink": "/we-are-all-born-mad-some-remain-so/",
+      "file": "_posts/2009-12-05-we-are-all-born-mad-some-remain-so.markdown",
+      "public_rendered_sha256": "4406b398b17b54ad2559afadfbf013fe60b409197f95f35b7daac343579655dd"
+    },
+    {
+      "id": 279,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/everett-can-you-recommend-one-simple-way-that-our/",
+      "permalink": "/everett-can-you-recommend-one-simple-way-that-our/",
+      "file": "_posts/2009-12-05-everett-can-you-recommend-one-simple-way-that-our.markdown",
+      "public_rendered_sha256": "963c66798acc2eb2657a349ecd0c09521e224d9857ff3aa18f3a5a40054621aa"
+    },
+    {
+      "id": 280,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/i-read-a-blog-once-by-someone-who-had-bought-a/",
+      "permalink": "/i-read-a-blog-once-by-someone-who-had-bought-a/",
+      "file": "_posts/2009-12-05-i-read-a-blog-once-by-someone-who-had-bought-a.markdown",
+      "public_rendered_sha256": "cfd2bb8a9b9714c10a536dddf3047a50c6e5c13d3e2234ab3be814a92e135c98"
+    },
+    {
+      "id": 281,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/harry-mccracken-at-technologizer-is-worried-that/",
+      "permalink": "/harry-mccracken-at-technologizer-is-worried-that/",
+      "file": "_posts/2009-12-05-harry-mccracken-at-technologizer-is-worried-that.markdown",
+      "public_rendered_sha256": "056a3378e5640aa6f970c19557df5707416005ad04d7cb3eea9b428ae7420617"
+    },
+    {
+      "id": 282,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/realize-that-life-not-stuff-is-what-matters/",
+      "permalink": "/realize-that-life-not-stuff-is-what-matters/",
+      "file": "_posts/2009-12-02-realize-that-life-not-stuff-is-what-matters.markdown",
+      "public_rendered_sha256": "82cbdeb8f57676ad95ef732e29f0b04bbc8a567cf7171460103571c575e51428"
+    },
+    {
+      "id": 283,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/if-you-want-to-be-above-average-you-must-push/",
+      "permalink": "/if-you-want-to-be-above-average-you-must-push/",
+      "file": "_posts/2009-12-02-if-you-want-to-be-above-average-you-must-push.markdown",
+      "public_rendered_sha256": "1c2777c2627ce8c6689a2e86d4bb234eecfbafa556bd1b3ed2606730d0c21122"
+    },
+    {
+      "id": 284,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/spoilers/",
+      "permalink": "/spoilers/",
+      "file": "_posts/2009-12-02-spoilers.markdown",
+      "public_rendered_sha256": "4902a06c439dcb8bb57730734737ad09cca2b755aaa4207664d5aad0006bb90b"
+    },
+    {
+      "id": 285,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-rules-for-computing-happiness/",
+      "permalink": "/the-rules-for-computing-happiness/",
+      "file": "_posts/2009-12-02-the-rules-for-computing-happiness.markdown",
+      "public_rendered_sha256": "7da310bed5d3b9236232ff93453a0f94f3591777ef05ae62442b6b7b1ab52983"
+    },
+    {
+      "id": 286,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/editors/",
+      "permalink": "/editors/",
+      "file": "_posts/2009-12-02-editors.markdown",
+      "public_rendered_sha256": "86690469f1b3ef4a32aa3911d636f54f942b8019b22b21707896f9d27260687d"
+    },
+    {
+      "id": 287,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/we-are-always-getting-ready-to-live-but-never/",
+      "permalink": "/we-are-always-getting-ready-to-live-but-never/",
+      "file": "_posts/2009-12-01-we-are-always-getting-ready-to-live-but-never.markdown",
+      "public_rendered_sha256": "2f1be7f1809fa202b0d92eeb68802afd9005b7f3bd36636ffdecbadb333e517a"
+    },
+    {
+      "id": 288,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/ok-go-wtf-music-video-via-kottke/",
+      "permalink": "/ok-go-wtf-music-video-via-kottke/",
+      "file": "_posts/2009-12-01-ok-go-wtf-music-video-via-kottke.markdown",
+      "public_rendered_sha256": "520941265f9db1bd67817b55cb57e99b552f283b80b34e409284fecf3bd2d739"
+    },
+    {
+      "id": 290,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/im-looking-forward-to-a-day-in-which-the/",
+      "permalink": "/im-looking-forward-to-a-day-in-which-the/",
+      "file": "_posts/2009-12-01-im-looking-forward-to-a-day-in-which-the.markdown",
+      "public_rendered_sha256": "93f79644614b5857f5bacbe19e217661201169cdbbf96dcae0f78c93feb1f2c3"
+    },
+    {
+      "id": 291,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/sono-le-piccole-cose-che-contano-nientaltro/",
+      "permalink": "/sono-le-piccole-cose-che-contano-nientaltro/",
+      "file": "_posts/2009-12-01-sono-le-piccole-cose-che-contano-nientaltro.markdown",
+      "public_rendered_sha256": "ec538773f076e2a6804088a4ec641813931c28098218917fb35650021b2c7309"
+    },
+    {
+      "id": 294,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/imagine-the-hurricane-is-coming-you-have-20/",
+      "permalink": "/imagine-the-hurricane-is-coming-you-have-20/",
+      "file": "_posts/2009-12-01-imagine-the-hurricane-is-coming-you-have-20.markdown",
+      "public_rendered_sha256": "2756c9777c99e71da2091733c407c618d4ca4dc75f32979afb6bc4e1282b387d"
+    },
+    {
+      "id": 295,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/most-people-who-have-clutter-issues-tend-to-keep/",
+      "permalink": "/most-people-who-have-clutter-issues-tend-to-keep/",
+      "file": "_posts/2009-11-30-most-people-who-have-clutter-issues-tend-to-keep.markdown",
+      "public_rendered_sha256": "0bd884590fbf9e539cb73198965f982a1af293a7cdf9a8a7b075f0507b953c95"
+    },
+    {
+      "id": 296,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/di-nicchie-la-coda-lunga-e-i-voti-dei-video-su/",
+      "permalink": "/di-nicchie-la-coda-lunga-e-i-voti-dei-video-su/",
+      "file": "_posts/2009-11-30-di-nicchie-la-coda-lunga-e-i-voti-dei-video-su.markdown",
+      "public_rendered_sha256": "e5dec62c9d8bb8de22eb482a815a00ad8dc801dac3e430d0dbc708f7bb0449be"
+    },
+    {
+      "id": 297,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/markdown/",
+      "permalink": "/markdown/",
+      "file": "_posts/2009-11-30-markdown.markdown",
+      "public_rendered_sha256": "d858920d70845d110934372843fe10dc23a4c3ab975a1332fcf778ee3433a698"
+    },
+    {
+      "id": 298,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/like-any-addiction-connection-has-very-quick/",
+      "permalink": "/like-any-addiction-connection-has-very-quick/",
+      "file": "_posts/2009-11-29-like-any-addiction-connection-has-very-quick.markdown",
+      "public_rendered_sha256": "bef90457180b0504927298edeed487b0d7cf746098001db3c87e79dc266b9539"
+    },
+    {
+      "id": 299,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/5-things-challenge-week-one-dopo-aver-letto/",
+      "permalink": "/5-things-challenge-week-one-dopo-aver-letto/",
+      "file": "_posts/2009-11-29-5-things-challenge-week-one-dopo-aver-letto.markdown",
+      "public_rendered_sha256": "48d0798c916fa56a27a9dfd77d9e0c3b9821cf63453f5abb62a0d36e278bcac4"
+    },
+    {
+      "id": 302,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/questo-ragazzo-e-il-futuro-se-il-video-non-si/",
+      "permalink": "/questo-ragazzo-e-il-futuro-se-il-video-non-si/",
+      "file": "_posts/2009-11-26-questo-ragazzo-e-il-futuro-se-il-video-non-si.markdown",
+      "public_rendered_sha256": "90a04fe0dafbc5a0d2bdb422b98113d9762886a0fc26ccd727a4eabe6acb72c1"
+    },
+    {
+      "id": 304,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/lifes-too-short-to-drink-bad-coffee-or-read-bad/",
+      "permalink": "/lifes-too-short-to-drink-bad-coffee-or-read-bad/",
+      "file": "_posts/2009-11-15-lifes-too-short-to-drink-bad-coffee-or-read-bad.markdown",
+      "public_rendered_sha256": "a46e86ca920faf56565001107d8a8294db1991521be385bd44c16d0d0459a287"
+    },
+    {
+      "id": 305,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/my-point-being-is-that-sometimes-if-you-want/",
+      "permalink": "/my-point-being-is-that-sometimes-if-you-want/",
+      "file": "_posts/2009-11-05-my-point-being-is-that-sometimes-if-you-want.markdown",
+      "public_rendered_sha256": "c81df1c48b7ffcf0275eb8cc22c8c7203917c5fd493eba8dd03c00baac092697"
+    },
+    {
+      "id": 306,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/traue-keiner-statistik-die-du-nicht-selber/",
+      "permalink": "/traue-keiner-statistik-die-du-nicht-selber/",
+      "file": "_posts/2009-11-03-traue-keiner-statistik-die-du-nicht-selber.markdown",
+      "public_rendered_sha256": "be9d775e6310084d4923526a74ee837c070777cd6de93f61463de30d109021e7"
+    },
+    {
+      "id": 307,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/learners-will-die-alone-eventually/",
+      "permalink": "/learners-will-die-alone-eventually/",
+      "file": "_posts/2009-11-02-learners-will-die-alone-eventually.markdown",
+      "public_rendered_sha256": "f5ad5a4467006747358b73c01e14451801ff611257bd5f8080e83e0b4e8e0974"
+    },
+    {
+      "id": 343,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/clubhouse-failure/",
+      "permalink": "/clubhouse-failure/",
+      "file": "_posts/2021-02-26-clubhouse-failure.markdown",
+      "public_rendered_sha256": "2cda13a197c8a95b6f69d3c332282d4a319a8d78b58066a4e18d1a783c727ad5"
+    },
+    {
+      "id": 350,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/density/",
+      "permalink": "/density/",
+      "file": "_posts/2021-07-17-density.markdown",
+      "public_rendered_sha256": "773691cd2bbc3a34ce4335bf184938709c895a09cbc898e12842c398369121bf"
+    },
+    {
+      "id": 353,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/say-nice-things-to-people/",
+      "permalink": "/say-nice-things-to-people/",
+      "file": "_posts/2021-11-19-say-nice-things-to-people.markdown",
+      "public_rendered_sha256": "8065428838a87072fe99b4add20780fd4883d5b89fbaa767d4cbea7ba39aa507"
+    },
+    {
+      "id": 357,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/be-here-now/",
+      "permalink": "/be-here-now/",
+      "file": "_posts/2022-06-28-be-here-now.markdown",
+      "public_rendered_sha256": "e1543e48c89b17b6d309fdea24646b604b6530daf629b3989dae20d9478d0d68"
+    },
+    {
+      "id": 367,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/dont-try-to-be-happy/",
+      "permalink": "/dont-try-to-be-happy/",
+      "file": "_posts/2022-07-25-dont-try-to-be-happy.markdown",
+      "public_rendered_sha256": "d14a29368b9d749f07ed8b67709b32c5a4dc00615810c0c957feccd8f9b60838"
+    },
+    {
+      "id": 370,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/thirty-one/",
+      "permalink": "/thirty-one/",
+      "file": "_posts/2022-08-29-thirty-one.markdown",
+      "public_rendered_sha256": "6702515c25bac5af790d0ac7fa53efcf3f864d094f69021d755490e8e3b36f2b"
+    },
+    {
+      "id": 374,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/the-last-time-you-did/",
+      "permalink": "/the-last-time-you-did/",
+      "file": "_posts/2022-09-06-the-last-time-you-did.markdown",
+      "public_rendered_sha256": "540ce5dc7fb39b67b47d3a49c0d16a7e8d1e7c078dd1475f9478d97f862d9fa6"
+    },
+    {
+      "id": 378,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/just-be/",
+      "permalink": "/just-be/",
+      "file": "_posts/2022-12-07-just-be.markdown",
+      "public_rendered_sha256": "f320ff47951ce0f9ec7afdd377621586b1d198d5b1b000568e9652941b064b85"
+    },
+    {
+      "id": 390,
+      "type": "post",
+      "original_url": "https://www.diegopetrucci.it/blog/why-are-you-running/",
+      "permalink": "/why-are-you-running/",
+      "file": "_posts/2024-04-22-why-are-you-running.markdown",
+      "public_rendered_sha256": "430f622835d9559082ed8bff5f80fa400c9bc7644f79a662877e030766384a75"
+    }
+  ]
+}
