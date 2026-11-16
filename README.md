@@ -24,6 +24,18 @@ Add images under `assets/` and link them as `/blog/assets/filename.jpg`.
 Commit and push to `main` to publish. Pagination, the archive, and feeds update
 automatically. Keep unpublished writing outside this public repository.
 
+After the deployment succeeds, refresh the feeds served at the original blog
+subdomain (these commands also recover from GitHub pausing scheduled jobs after
+a long inactive period):
+
+```sh
+gh workflow enable pages.yml --repo diegopetrucci/personal-blog-redirects
+gh workflow run pages.yml --repo diegopetrucci/personal-blog-redirects
+```
+
+Check that the redirect site's deployment succeeds. It also refreshes daily
+while its scheduled workflow is active.
+
 ## Preview and check
 
 Ruby 3.4.9 is used by both the local build and GitHub Actions.
@@ -70,7 +82,7 @@ the imported files.
 
 ## Domain cutover
 
-The initial deployment uses `https://diegopetrucci.github.io/blog/`. All original
+The canonical URL is configured as `https://www.diegopetrucci.it/blog/`. All original
 `/blog/<slug>/` paths can be retained when `www.diegopetrucci.it` is connected to
 the account's main GitHub Pages site. That requires migrating/checking the main
 homepage and configuring the account site, rather than assigning the same
