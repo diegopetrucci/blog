@@ -38,3 +38,17 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128
+  refresh-legacy-feeds:
+    needs: deploy
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10
+        with:
+          persist-credentials: false
+      - name: Refresh legacy feeds and verify deployment
+        env:
+          GH_TOKEN: ${{ secrets.LEGACY_FEED_REFRESH_TOKEN }}
+        run: bash scripts/refresh-legacy-feeds.sh
