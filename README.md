@@ -24,9 +24,20 @@ Add images under `assets/` and link them as `/blog/assets/filename.jpg`.
 Commit and push to `main` to publish. Pagination, the archive, and feeds update
 automatically. Keep unpublished writing outside this public repository.
 
-After the deployment succeeds, refresh the feeds served at the original blog
-subdomain (these commands also recover from GitHub pausing scheduled jobs after
-a long inactive period):
+After deployment, the `refresh-legacy-feeds` job enables and runs the companion
+repository's workflow, then waits for its deployment to succeed. This refreshes
+feeds at the original `blog.diegopetrucci.it` address even after a long period
+without posts. A failed refresh makes the workflow fail visibly; the successful
+main blog deployment remains available.
+
+One-time setup: create a fine-grained GitHub token restricted to
+`diegopetrucci/personal-blog-redirects`, with **Actions: Read and write** (and
+the automatic Metadata read permission). Save it in `diegopetrucci/blog` as the
+Actions secret `LEGACY_FEED_REFRESH_TOKEN`. Renew it before its chosen expiry.
+Never put the token in a file or commit it. The normal `GITHUB_TOKEN` cannot
+dispatch workflows in another repository.
+
+Manual recovery, if the automatic job fails:
 
 ```sh
 gh workflow enable pages.yml --repo diegopetrucci/personal-blog-redirects
